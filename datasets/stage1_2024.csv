@@ -1,0 +1,52 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+8.02,NRG Esports,FURIA,Breeze,13,10,Cypher,Kayo,Sova,Jett,Viper,Jett,Viper,Cypher,Sova,Kayo
+8.02,NRG Esports,FURIA,Ascent,13,8,Kayo,Jett,Killjoy,Sova,Omen,Killjoy,Sova,Jett,Omen,Kayo
+8.02,Cloud9,MIBR,Bind,13,11,Viper,Brimstone,Yoru,Raze,Skye,Brimstone,Viper,Jett,Skye,Raze
+8.02,Cloud9,MIBR,Split,8,13,Skye,Raze,Viper,Killjoy,Astra,Raze,Astra,Skye,Jett,Viper
+8.02,Cloud9,MIBR,Lotus,13,10,Gekko,Fade,Raze,Killjoy,Omen,Skye,Omen,Raze,Viper,Killjoy
+8.02,LOUD,Sentinels,Split,13,11,Raze,Breach,Omen,Skye,Viper,Raze,Omen,Cypher,Viper,Skye
+8.02,LOUD,Sentinels,Ascent,13,9,Breach,Phoenix,Viper,Kayo,Omen,Sova,Killjoy,Jett,Omen,Kayo
+8.02,LEVIATÁN,100 Thieves,Bind,13,9,Raze,Skye,Harbor,Gekko,Viper,Gekko,Brimstone,Fade,Raze,Viper
+8.02,LEVIATÁN,100 Thieves,Split,3,13,Raze,Breach,Omen,Cypher,Sova,Fade,Astra,Raze,Gekko,Viper
+8.02,LEVIATÁN,100 Thieves,Icebox,13,11,Sova,Reyna,Killjoy,Harbor,Viper,Jett,Killjoy,Viper,Sova,Gekko
+8.02,KRÜ Esports,G2 Esports,Icebox,13,9,Killjoy,Sova,Jett,Viper,Kayo,Brimstone,Viper,Jett,Sova,Killjoy
+8.02,KRÜ Esports,G2 Esports,Sunset,9,13,Fade,Kayo,Chamber,Omen,Viper,Sova,Omen,Raze,Viper,Cypher
+8.02,KRÜ Esports,G2 Esports,Ascent,11,13,Jett,Killjoy,Sova,Kayo,Omen,Kayo,Viper,Cypher,Omen,Jett
+8.02,FURIA,MIBR,Split,9,13,Jett,Raze,Viper,Skye,Astra,Viper,Raze,Jett,Skye,Astra
+8.02,FURIA,MIBR,Breeze,11,13,Kayo,Viper,Sova,Jett,Cypher,Jett,Viper,Sova,Cypher,Kayo
+8.02,Sentinels,100 Thieves,Lotus,13,5,Raze,Omen,Viper,Killjoy,Fade,Chamber,Viper,Raze,Fade,Omen
+8.02,Sentinels,100 Thieves,Bind,6,13,Yoru,Viper,Brimstone,Skye,Raze,Gekko,Viper,Raze,Fade,Brimstone
+8.02,Sentinels,100 Thieves,Split,13,8,Skye,Cypher,Raze,Viper,Omen,Fade,Viper,Astra,Gekko,Raze
+8.03,NRG Esports,Cloud9,Sunset,13,7,Jett,Cypher,Omen,Skye,Viper,Viper,Raze,Skye,Omen,Yoru
+8.03,NRG Esports,Cloud9,Ascent,14,12,Killjoy,Sova,Jett,Omen,Kayo,Sova,Jett,Kayo,Killjoy,Omen
+8.03,LOUD,LEVIATÁN,Bind,11,13,Kayo,Viper,Brimstone,Breach,Phoenix,Viper,Harbor,Gekko,Skye,Raze
+8.03,LOUD,LEVIATÁN,Split,13,10,Viper,Omen,Breach,Raze,Skye,Viper,Jett,Skye,Raze,Astra
+8.03,LOUD,LEVIATÁN,Ascent,13,7,Viper,Omen,Phoenix,Breach,Kayo,Sova,Jett,Kayo,Omen,Killjoy
+8.03,G2 Esports,Evil Geniuses,Sunset,13,15,Sova,Raze,Viper,Cypher,Omen,Raze,Omen,Breach,Fade,Cypher
+8.03,G2 Esports,Evil Geniuses,Icebox,11,13,Jett,Sova,Brimstone,Viper,Killjoy,Viper,Killjoy,Gekko,Kayo,Deadlock
+8.03,Cloud9,MIBR,Bind,12,14,Skye,Yoru,Brimstone,Viper,Raze,Brimstone,Viper,Kayo,Skye,Raze
+8.03,Cloud9,MIBR,Ascent,9,13,Omen,Kayo,Sova,Killjoy,Jett,Skye,Cypher,Omen,Jett,Viper
+8.03,LEVIATÁN,Sentinels,Split,3,13,Viper,Jett,Skye,Raze,Astra,Raze,Viper,Cypher,Omen,Skye
+8.03,LEVIATÁN,Sentinels,Breeze,13,6,Viper,Jett,Kayo,Cypher,Sova,Jett,Sova,Cypher,Kayo,Viper
+8.03,LEVIATÁN,Sentinels,Bind,9,13,Raze,Viper,Skye,Harbor,Gekko,Skye,Raze,Brimstone,Viper,Yoru
+8.03,G2 Esports,KRÜ Esports,Split,13,8,Raze,Cypher,Viper,Omen,Breach,Viper,Kayo,Jett,Skye,Astra
+8.03,G2 Esports,KRÜ Esports,Sunset,13,8,Viper,Sova,Raze,Cypher,Omen,Chamber,Kayo,Viper,Fade,Omen
+8.03,MIBR,Sentinels,Split,7,13,Viper,Jett,Astra,Raze,Skye,Raze,Omen,Cypher,Viper,Skye
+8.03,MIBR,Sentinels,Ascent,6,13,Jett,Cypher,Viper,Omen,Skye,Jett,Sova,Kayo,Omen,Killjoy
+8.03,G2 Esports,MIBR,Sunset,9,13,Viper,Raze,Omen,Cypher,Sova,Cypher,Skye,Raze,Viper,Omen
+8.03,G2 Esports,MIBR,Split,15,13,Raze,Viper,Breach,Cypher,Omen,Raze,Astra,Viper,Jett,Skye
+8.03,G2 Esports,MIBR,Breeze,10,13,Cypher,Sova,Yoru,Viper,Harbor,Jett,Sova,Viper,Kayo,Cypher
+8.03,Sentinels,G2 Esports,Sunset,13,8,Kayo,Gekko,Raze,Omen,Cypher,Raze,Cypher,Viper,Sova,Omen
+8.03,Sentinels,G2 Esports,Breeze,9,13,Viper,Cypher,Kayo,Jett,Sova,Cypher,Viper,Yoru,Sova,Harbor
+8.03,Sentinels,G2 Esports,Split,9,13,Viper,Skye,Cypher,Omen,Raze,Cypher,Omen,Viper,Raze,Breach
+8.03,Evil Geniuses,LOUD,Ascent,13,7,Omen,Jett,Sova,Cypher,Kayo,Omen,Breach,Kayo,Viper,Phoenix
+8.03,Evil Geniuses,LOUD,Icebox,7,13,Killjoy,Deadlock,Viper,Gekko,Kayo,Harbor,Viper,Sova,Jett,Killjoy
+8.03,Evil Geniuses,LOUD,Sunset,5,13,Fade,Cypher,Breach,Raze,Omen,Viper,Sova,Omen,Phoenix,Breach
+8.03,NRG Esports,Sentinels,Sunset,14,16,Omen,Cypher,Viper,Jett,Skye,Omen,Raze,Kayo,Cypher,Gekko
+8.03,NRG Esports,Sentinels,Ascent,13,8,Kayo,Killjoy,Jett,Sova,Omen,Kayo,Jett,Omen,Sova,Cypher
+8.03,NRG Esports,Sentinels,Split,3,13,Viper,Raze,Omen,Breach,Skye,Cypher,Viper,Skye,Omen,Raze
+8.03,LOUD,Sentinels,Sunset,9,13,Viper,Omen,Phoenix,Breach,Sova,Omen,Gekko,Raze,Cypher,Kayo
+8.03,LOUD,Sentinels,Split,3,13,Viper,Omen,Breach,Raze,Skye,Raze,Omen,Skye,Viper,Cypher
+8.03,LOUD,Sentinels,Icebox,13,11,Harbor,Viper,Sova,Killjoy,Jett,Kayo,Viper,Killjoy,Jett,Gekko
+8.03,LOUD,Sentinels,Bind,13,8,Phoenix,Brimstone,Breach,Kayo,Viper,Viper,Raze,Brimstone,Yoru,Skye
+8.03,LOUD,Sentinels,Lotus,4,13,Viper,Phoenix,Omen,Breach,Skye,Raze,Fade,Viper,Omen,Killjoy

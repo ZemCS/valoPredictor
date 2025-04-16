@@ -1,0 +1,36 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+5.01,The Guard,Sentinels,Breeze,13,15,Sova,Viper,Kayo,Jett,Chamber,Kayo,Sova,Fade,Viper,Chamber
+5.01,The Guard,Sentinels,Ascent,13,10,Fade,Kayo,Killjoy,Jett,Omen,Fade,Chamber,Sova,Kayo,Astra
+5.01,The Guard,Sentinels,Icebox,15,13,Chamber,Brimstone,Viper,Fade,Kayo,Sova,Chamber,Sage,Kayo,Viper
+5.01,FaZe Clan,Evil Geniuses,Icebox,11,13,Viper,Chamber,Sova,Raze,Kayo,Chamber,Sage,Kayo,Sova,Viper
+5.01,FaZe Clan,Evil Geniuses,Breeze,15,13,Viper,Chamber,Kayo,Jett,Sova,Chamber,Sova,Neon,Kayo,Viper
+5.01,FaZe Clan,Evil Geniuses,Ascent,19,17,Omen,Chamber,Jett,Sova,Kayo,Astra,Phoenix,Fade,Killjoy,Kayo
+5.01,NRG Esports,100 Thieves,Icebox,13,11,Sova,Kayo,Sage,Chamber,Viper,Sova,Kayo,Viper,Sage,Chamber
+5.01,NRG Esports,100 Thieves,Bind,7,13,Skye,Sage,Raze,Fade,Brimstone,Viper,Fade,Brimstone,Skye,Raze
+5.01,NRG Esports,100 Thieves,Ascent,11,13,Sova,Kayo,Chamber,Fade,Astra,Omen,Fade,Sage,Chamber,Kayo
+5.01,Shopify Rebellion,Cloud9,Ascent,10,13,Omen,Fade,Sage,Chamber,Kayo,Omen,Neon,Chamber,Fade,Kayo
+5.01,Shopify Rebellion,Cloud9,Fracture,15,17,Chamber,Brimstone,Breach,Kayo,Neon,Fade,Omen,Raze,Chamber,Viper
+5.01,The Guard,Cloud9,Fracture,13,9,Chamber,Breach,Brimstone,Fade,Jett,Omen,Viper,Fade,Chamber,Raze
+5.01,The Guard,Cloud9,Ascent,13,11,Killjoy,Fade,Jett,Omen,Kayo,Neon,Omen,Kayo,Chamber,Fade
+5.01,Sentinels,Shopify Rebellion,Breeze,13,8,Viper,Fade,Chamber,Kayo,Sova,Viper,Chamber,Kayo,Sova,Yoru
+5.01,Sentinels,Shopify Rebellion,Fracture,17,15,Neon,Breach,Chamber,Brimstone,Kayo,Brimstone,Neon,Kayo,Chamber,Breach
+5.01,FaZe Clan,100 Thieves,Haven,13,6,Omen,Chamber,Raze,Sage,Fade,Raze,Fade,Omen,Sage,Chamber
+5.01,FaZe Clan,100 Thieves,Breeze,8,13,Jett,Sova,Chamber,Viper,Kayo,Sova,Jett,Kayo,Viper,Cypher
+5.01,FaZe Clan,100 Thieves,Ascent,13,9,Jett,Kayo,Chamber,Sova,Omen,Kayo,Fade,Chamber,Omen,Sage
+5.01,Evil Geniuses,NRG Esports,Bind,6,13,Raze,Brimstone,Breach,Chamber,Fade,Sage,Raze,Skye,Fade,Astra
+5.01,Evil Geniuses,NRG Esports,Icebox,12,14,Kayo,Sova,Chamber,Viper,Sage,Viper,Sova,Kayo,Chamber,Sage
+5.01,100 Thieves,Sentinels,Fracture,15,17,Breach,Chamber,Brimstone,Neon,Kayo,Breach,Chamber,Neon,Kayo,Brimstone
+5.01,100 Thieves,Sentinels,Breeze,13,7,Sova,Kayo,Jett,Cypher,Viper,Chamber,Kayo,Sova,Fade,Viper
+5.01,100 Thieves,Sentinels,Haven,13,11,Raze,Omen,Fade,Sage,Chamber,Chamber,Kayo,Fade,Breach,Omen
+5.01,Cloud9,NRG Esports,Breeze,13,7,Viper,Neon,Sova,Kayo,Cypher,Kayo,Breach,Viper,Chamber,Sova
+5.01,Cloud9,NRG Esports,Icebox,13,8,Fade,Kayo,Chamber,Viper,Sage,Sova,Chamber,Viper,Sage,Kayo
+5.01,The Guard,FaZe Clan,Haven,13,5,Chamber,Fade,Omen,Raze,Breach,Chamber,Sage,Omen,Raze,Fade
+5.01,The Guard,FaZe Clan,Icebox,13,7,Brimstone,Chamber,Fade,Kayo,Viper,Raze,Kayo,Sova,Chamber,Viper
+5.01,100 Thieves,Cloud9,Ascent,13,7,Chamber,Omen,Kayo,Fade,Sage,Fade,Omen,Killjoy,Kayo,Jett
+5.01,100 Thieves,Cloud9,Fracture,13,10,Breach,Brimstone,Kayo,Chamber,Raze,Fade,Viper,Omen,Chamber,Raze
+5.01,FaZe Clan,100 Thieves,Icebox,10,13,Raze,Viper,Sova,Chamber,Kayo,Viper,Chamber,Sova,Kayo,Sage
+5.01,FaZe Clan,100 Thieves,Breeze,6,13,Sova,Jett,Chamber,Viper,Kayo,Kayo,Cypher,Jett,Viper,Sova
+5.01,FaZe Clan,100 Thieves,Ascent,3,13,Chamber,Omen,Kayo,Phoenix,Sova,Omen,Kayo,Fade,Chamber,Sage
+5.01,The Guard,100 Thieves,Icebox,7,13,Brimstone,Chamber,Fade,Viper,Kayo,Sova,Kayo,Sage,Viper,Chamber
+5.01,The Guard,100 Thieves,Fracture,6,13,Fade,Chamber,Jett,Breach,Brimstone,Breach,Chamber,Neon,Kayo,Brimstone
+5.01,The Guard,100 Thieves,Haven,9,13,Fade,Breach,Omen,Raze,Chamber,Sage,Chamber,Fade,Raze,Omen

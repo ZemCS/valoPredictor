@@ -1,0 +1,36 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+3.07,G2 Esports,Anubis Gaming,Bind,13,4,Astra,Viper,Raze,Sova,Skye,Skye,Raze,Sova,Viper,Astra
+3.07,G2 Esports,Anubis Gaming,Breeze,13,11,Skye,Sova,Cypher,Viper,Jett,Skye,Viper,Cypher,Sova,Jett
+3.07,FUT Esports,Oxygen Esports,Split,13,6,Astra,Skye,Sage,Jett,Killjoy,Skye,Cypher,Astra,Jett,Killjoy
+3.07,FUT Esports,Oxygen Esports,Ascent,13,10,Jett,Sage,Omen,Sova,Killjoy,Astra,Killjoy,Sage,Viper,Skye
+3.07,Papara SuperMassive,Guild Esports,Breeze,13,8,Sova,Cypher,Skye,Viper,Jett,Sova,Cypher,Skye,Jett,Viper
+3.07,Papara SuperMassive,Guild Esports,Icebox,15,17,Jett,Viper,Reyna,Sage,Sova,Sova,Reyna,Sage,Viper,Jett
+3.07,Papara SuperMassive,Guild Esports,Split,8,13,Cypher,Sage,Astra,Reyna,Jett,Sage,Skye,Cypher,Raze,Omen
+3.07,Team Liquid,One Breath Gaming,Ascent,13,0,Reyna,Killjoy,Astra,Sova,Jett,Jett,Omen,Cypher,Sova,Sage
+3.07,Team Liquid,One Breath Gaming,Haven,13,9,Killjoy,Jett,Sova,Skye,Astra,Skye,Astra,Sova,Jett,Cypher
+3.07,Anubis Gaming,Oxygen Esports,Split,12,14,Killjoy,Viper,Astra,Kayo,Raze,Astra,Skye,Killjoy,Cypher,Jett
+3.07,Anubis Gaming,Oxygen Esports,Ascent,3,13,Killjoy,Skye,Sova,Astra,Jett,Skye,Viper,Killjoy,Astra,Sage
+3.07,Papara SuperMassive,One Breath Gaming,Breeze,13,5,Jett,Sova,Cypher,Viper,Skye,Cypher,Viper,Jett,Skye,Sova
+3.07,Papara SuperMassive,One Breath Gaming,Split,10,13,Astra,Sage,Raze,Skye,Cypher,Jett,Astra,Breach,Cypher,Raze
+3.07,Papara SuperMassive,One Breath Gaming,Haven,13,3,Jett,Astra,Sova,Cypher,Skye,Sova,Astra,Skye,Cypher,Jett
+3.07,G2 Esports,FUT Esports,Icebox,7,13,Raze,Sage,Jett,Sova,Viper,Viper,Jett,Sage,Killjoy,Sova
+3.07,G2 Esports,FUT Esports,Breeze,22,20,Jett,Cypher,Sova,Viper,Skye,Jett,Viper,Cypher,Sova,Skye
+3.07,G2 Esports,FUT Esports,Ascent,13,2,Sova,Sage,Skye,Jett,Astra,Sova,Jett,Sage,Cypher,Omen
+3.07,Guild Esports,Team Liquid,Bind,6,13,Raze,Sova,Viper,Skye,Astra,Astra,Jett,Viper,Raze,Sova
+3.07,Guild Esports,Team Liquid,Split,8,13,Sage,Skye,Cypher,Omen,Raze,Astra,Reyna,Breach,Viper,Raze
+3.07,Guild Esports,Oxygen Esports,Split,13,8,Skye,Raze,Sage,Cypher,Omen,Killjoy,Skye,Astra,Cypher,Jett
+3.07,Guild Esports,Oxygen Esports,Breeze,13,11,Sova,Skye,Cypher,Viper,Jett,Cypher,Jett,Reyna,Skye,Viper
+3.07,FUT Esports,Papara SuperMassive,Split,13,8,Sage,Astra,Killjoy,Skye,Jett,Jett,Cypher,Astra,Raze,Skye
+3.07,FUT Esports,Papara SuperMassive,Haven,6,13,Jett,Skye,Astra,Breach,Killjoy,Sova,Astra,Skye,Cypher,Jett
+3.07,FUT Esports,Papara SuperMassive,Icebox,13,4,Jett,Killjoy,Sage,Viper,Sova,Sage,Reyna,Sova,Viper,Jett
+3.07,G2 Esports,Team Liquid,Ascent,8,13,Sage,Jett,Sova,Astra,Skye,Jett,Reyna,Killjoy,Astra,Sova
+3.07,G2 Esports,Team Liquid,Bind,13,8,Raze,Astra,Viper,Skye,Sova,Sova,Astra,Jett,Viper,Raze
+3.07,G2 Esports,Team Liquid,Haven,9,13,Astra,Sova,Phoenix,Cypher,Jett,Sova,Jett,Killjoy,Astra,Skye
+3.07,Guild Esports,FUT Esports,Haven,13,2,Raze,Skye,Sova,Cypher,Omen,Omen,Skye,Jett,Killjoy,Sova
+3.07,Guild Esports,FUT Esports,Icebox,13,7,Sova,Viper,Reyna,Jett,Sage,Killjoy,Jett,Sage,Sova,Viper
+3.07,G2 Esports,Guild Esports,Bind,9,13,Astra,Sova,Skye,Raze,Viper,Sova,Viper,Skye,Raze,Astra
+3.07,G2 Esports,Guild Esports,Haven,11,13,Phoenix,Jett,Astra,Sova,Killjoy,Sova,Raze,Skye,Cypher,Omen
+3.07,Team Liquid,Guild Esports,Haven,5,13,Sova,Jett,Astra,Killjoy,Skye,Sova,Cypher,Omen,Raze,Skye
+3.07,Team Liquid,Guild Esports,Ascent,13,10,Sova,Jett,Astra,Killjoy,Reyna,Sova,Skye,Cypher,Jett,Astra
+3.07,Team Liquid,Guild Esports,Split,13,7,Astra,Raze,Viper,Breach,Reyna,Sage,Omen,Skye,Cypher,Raze
+3.07,Team Liquid,Guild Esports,Breeze,13,7,Jett,Viper,Skye,Sova,Cypher,Sova,Skye,Viper,Jett,Cypher

@@ -1,0 +1,65 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+8.09,G2 Esports,T1,Breeze,13,8,Cypher,Sova,Viper,Astra,Yoru,Harbor,Sova,Yoru,Jett,Viper
+8.09,G2 Esports,T1,Icebox,1,13,Killjoy,Viper,Sova,Gekko,Harbor,Viper,Sova,Sage,Chamber,Reyna
+8.09,G2 Esports,T1,Lotus,14,12,Killjoy,Omen,Viper,Raze,Fade,Fade,Raze,Omen,Viper,Chamber
+8.09,FunPlus Phoenix,FUT Esports,Sunset,13,7,Yoru,Cypher,Harbor,Omen,Fade,Cypher,Gekko,Omen,Breach,Raze
+8.09,FunPlus Phoenix,FUT Esports,Lotus,12,14,Astra,Raze,Viper,Gekko,Omen,Jett,Omen,Viper,Cypher,Breach
+8.09,FunPlus Phoenix,FUT Esports,Icebox,13,10,Harbor,Kayo,Gekko,Clove,Omen,Jett,Sova,Killjoy,Viper,Kayo
+8.09,Gen.G,LEVIATÁN,Icebox,7,13,Killjoy,Gekko,Kayo,Viper,Jett,Jett,Killjoy,Sova,Harbor,Viper
+8.09,Gen.G,LEVIATÁN,Lotus,13,5,Raze,Omen,Viper,Fade,Killjoy,Viper,Killjoy,Raze,Omen,Fade
+8.09,Gen.G,LEVIATÁN,Breeze,13,7,Astra,Sova,Yoru,Viper,Jett,Jett,Cypher,Kayo,Viper,Sova
+8.09,Team Heretics,Dragon Ranger Gaming,Icebox,13,5,Kayo,Jett,Killjoy,Sova,Viper,Killjoy,Sova,Jett,Viper,Harbor
+8.09,Team Heretics,Dragon Ranger Gaming,Sunset,13,5,Raze,Kayo,Sova,Omen,Cypher,Kayo,Cypher,Omen,Raze,Gekko
+8.09,FunPlus Phoenix,Gen.G,Lotus,16,14,Raze,Astra,Viper,Gekko,Omen,Raze,Omen,Killjoy,Viper,Fade
+8.09,FunPlus Phoenix,Gen.G,Sunset,7,13,Yoru,Fade,Cypher,Omen,Harbor,Jett,Omen,Cypher,Kayo,Sova
+8.09,FunPlus Phoenix,Gen.G,Ascent,11,13,Omen,Fade,Viper,Yoru,Killjoy,Killjoy,Jett,Sova,Omen,Kayo
+8.09,G2 Esports,Team Heretics,Lotus,9,13,Raze,Killjoy,Viper,Omen,Fade,Breach,Cypher,Fade,Raze,Omen
+8.09,G2 Esports,Team Heretics,Bind,13,6,Raze,Viper,Gekko,Skye,Brimstone,Sova,Omen,Raze,Skye,Viper
+8.09,G2 Esports,Team Heretics,Split,13,8,Breach,Omen,Viper,Raze,Fade,Raze,Viper,Skye,Omen,Cypher
+8.09,LEVIATÁN,T1,Breeze,13,9,Kayo,Viper,Jett,Cypher,Sova,Yoru,Viper,Harbor,Jett,Sova
+8.09,LEVIATÁN,T1,Sunset,13,7,Raze,Gekko,Cypher,Omen,Breach,Raze,Breach,Sage,Gekko,Omen
+8.09,Dragon Ranger Gaming,FUT Esports,Bind,10,13,Raze,Cypher,Brimstone,Harbor,Skye,Viper,Raze,Skye,Kayo,Omen
+8.09,Dragon Ranger Gaming,FUT Esports,Ascent,12,14,Omen,Jett,Cypher,Kayo,Sova,Jett,Kayo,Sova,Killjoy,Omen
+8.09,FunPlus Phoenix,Team Heretics,Sunset,4,13,Cypher,Omen,Yoru,Fade,Harbor,Raze,Cypher,Kayo,Sova,Omen
+8.09,FunPlus Phoenix,Team Heretics,Lotus,13,6,Raze,Astra,Gekko,Viper,Omen,Raze,Cypher,Breach,Omen,Fade
+8.09,FunPlus Phoenix,Team Heretics,Icebox,15,17,Gekko,Clove,Omen,Kayo,Harbor,Jett,Sova,Killjoy,Kayo,Viper
+8.09,FUT Esports,LEVIATÁN,Sunset,13,1,Gekko,Cypher,Omen,Breach,Raze,Gekko,Cypher,Raze,Breach,Omen
+8.09,FUT Esports,LEVIATÁN,Lotus,11,13,Jett,Cypher,Breach,Viper,Omen,Viper,Raze,Omen,Fade,Killjoy
+8.09,FUT Esports,LEVIATÁN,Bind,13,11,Omen,Viper,Raze,Skye,Kayo,Brimstone,Raze,Viper,Gekko,Skye
+8.09,100 Thieves,FUT Esports,Icebox,13,2,Sova,Viper,Jett,Killjoy,Gekko,Viper,Jett,Sova,Kayo,Killjoy
+8.09,100 Thieves,FUT Esports,Bind,13,5,Brimstone,Gekko,Raze,Fade,Viper,Viper,Raze,Omen,Kayo,Skye
+8.09,FNATIC,Gen.G,Lotus,13,10,Killjoy,Viper,Raze,Fade,Omen,Viper,Fade,Killjoy,Raze,Omen
+8.09,FNATIC,Gen.G,Bind,10,13,Viper,Gekko,Raze,Skye,Brimstone,Raze,Cypher,Viper,Brimstone,Skye
+8.09,FNATIC,Gen.G,Breeze,11,13,Yoru,Viper,Sova,Cypher,Kayo,Jett,Sova,Astra,Yoru,Viper
+8.09,Paper Rex,G2 Esports,Split,13,7,Jett,Raze,Omen,Viper,Skye,Fade,Raze,Omen,Breach,Viper
+8.09,Paper Rex,G2 Esports,Lotus,10,13,Skye,Jett,Raze,Omen,Breach,Raze,Killjoy,Viper,Fade,Omen
+8.09,Paper Rex,G2 Esports,Bind,5,13,Brimstone,Gekko,Harbor,Skye,Raze,Raze,Gekko,Brimstone,Viper,Skye
+8.09,EDward Gaming,Team Heretics,Sunset,6,13,Raze,Astra,Omen,Cypher,Gekko,Raze,Kayo,Cypher,Sova,Omen
+8.09,EDward Gaming,Team Heretics,Split,3,13,Omen,Raze,Viper,Cypher,Skye,Raze,Skye,Cypher,Viper,Omen
+8.09,FUT Esports,FNATIC,Split,5,13,Viper,Raze,Omen,Chamber,Skye,Yoru,Cypher,Raze,Breach,Omen
+8.09,FUT Esports,FNATIC,Lotus,13,8,Jett,Viper,Breach,Omen,Cypher,Raze,Fade,Killjoy,Omen,Viper
+8.09,FUT Esports,FNATIC,Ascent,13,3,Sova,Jett,Kayo,Killjoy,Omen,Jett,Killjoy,Sova,Kayo,Omen
+8.09,Paper Rex,EDward Gaming,Bind,13,11,Raze,Brimstone,Reyna,Skye,Harbor,Omen,Raze,Skye,Viper,Gekko
+8.09,Paper Rex,EDward Gaming,Sunset,13,6,Breach,Gekko,Raze,Sage,Omen,Raze,Viper,Cypher,Gekko,Omen
+8.09,100 Thieves,Gen.G,Icebox,10,13,Gekko,Killjoy,Jett,Sova,Viper,Viper,Gekko,Killjoy,Jett,Kayo
+8.09,100 Thieves,Gen.G,Ascent,10,13,Omen,Sova,Jett,Killjoy,Kayo,Killjoy,Omen,Kayo,Jett,Sova
+8.09,G2 Esports,Team Heretics,Icebox,7,13,Viper,Sage,Killjoy,Sova,Gekko,Killjoy,Jett,Kayo,Sova,Viper
+8.09,G2 Esports,Team Heretics,Ascent,13,11,Sova,Kayo,Omen,Jett,Killjoy,Jett,Omen,Cypher,Kayo,Sova
+8.09,G2 Esports,Team Heretics,Lotus,13,4,Viper,Killjoy,Fade,Raze,Omen,Omen,Cypher,Fade,Raze,Breach
+8.09,100 Thieves,Paper Rex,Breeze,13,5,Kayo,Viper,Jett,Cypher,Sova,Jett,Viper,Harbor,Sova,Reyna
+8.09,100 Thieves,Paper Rex,Sunset,10,13,Cypher,Gekko,Omen,Fade,Raze,Breach,Gekko,Raze,Sage,Omen
+8.09,100 Thieves,Paper Rex,Icebox,14,12,Viper,Jett,Gekko,Sova,Killjoy,Jett,Sage,Killjoy,Kayo,Viper
+8.09,Team Heretics,FUT Esports,Bind,13,7,Raze,Viper,Fade,Brimstone,Gekko,Omen,Raze,Viper,Kayo,Gekko
+8.09,Team Heretics,FUT Esports,Sunset,13,4,Sova,Cypher,Raze,Omen,Kayo,Raze,Breach,Omen,Gekko,Cypher
+8.09,G2 Esports,Gen.G,Lotus,8,13,Viper,Killjoy,Fade,Omen,Raze,Killjoy,Raze,Fade,Viper,Omen
+8.09,G2 Esports,Gen.G,Ascent,10,13,Jett,Sova,Omen,Kayo,Killjoy,Jett,Sova,Killjoy,Kayo,Omen
+8.09,100 Thieves,Team Heretics,Bind,13,15,Raze,Gekko,Viper,Brimstone,Fade,Raze,Brimstone,Gekko,Viper,Fade
+8.09,100 Thieves,Team Heretics,Sunset,1,13,Fade,Raze,Omen,Gekko,Cypher,Raze,Kayo,Omen,Cypher,Sova
+8.09,G2 Esports,Team Heretics,Bind,2,13,Skye,Gekko,Brimstone,Viper,Raze,Raze,Gekko,Fade,Viper,Brimstone
+8.09,G2 Esports,Team Heretics,Icebox,6,13,Killjoy,Harbor,Sova,Gekko,Viper,Sova,Kayo,Jett,Viper,Killjoy
+8.09,G2 Esports,Team Heretics,Lotus,8,13,Raze,Omen,Killjoy,Viper,Fade,Viper,Omen,Fade,Killjoy,Raze
+8.09,Gen.G,Team Heretics,Breeze,13,6,Yoru,Jett,Astra,Sova,Viper,Sova,Skye,Jett,Viper,Cypher
+8.09,Gen.G,Team Heretics,Icebox,9,13,Jett,Killjoy,Gekko,Kayo,Viper,Sova,Kayo,Viper,Killjoy,Jett
+8.09,Gen.G,Team Heretics,Ascent,9,13,Omen,Kayo,Sova,Killjoy,Jett,Jett,Omen,Killjoy,Kayo,Sova
+8.09,Gen.G,Team Heretics,Lotus,13,4,Raze,Killjoy,Fade,Viper,Omen,Fade,Killjoy,Raze,Omen,Viper
+8.09,Gen.G,Team Heretics,Split,13,3,Raze,Cypher,Omen,Skye,Viper,Viper,Skye,Omen,Raze,Cypher

@@ -1,0 +1,85 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+7.02,Team Liquid,Natus Vincere,Fracture,11,13,Viper,Breach,Astra,Neon,Sova,Viper,Killjoy,Raze,Fade,Omen
+7.02,Team Liquid,Natus Vincere,Bind,15,17,Viper,Raze,Chamber,Astra,Skye,Viper,Brimstone,Skye,Neon,Raze
+7.02,DRX,LOUD,Lotus,13,15,Fade,Viper,Killjoy,Omen,Raze,Raze,Fade,Viper,Killjoy,Omen
+7.02,DRX,LOUD,Split,13,6,Omen,Raze,Viper,Killjoy,Skye,Raze,Killjoy,Breach,Astra,Skye
+7.02,DRX,LOUD,Ascent,13,8,Killjoy,Omen,Kayo,Sova,Jett,Fade,Jett,Omen,Viper,Breach
+7.02,FUT Esports,T1,Pearl,13,4,Viper,Killjoy,Brimstone,Kayo,Jett,Jett,Killjoy,Viper,Harbor,Skye
+7.02,FUT Esports,T1,Haven,13,7,Jett,Breach,Gekko,Omen,Killjoy,Breach,Sova,Omen,Jett,Killjoy
+7.02,Evil Geniuses,FunPlus Phoenix,Ascent,13,8,Omen,Kayo,Jett,Sova,Killjoy,Skye,Killjoy,Jett,Astra,Omen
+7.02,Evil Geniuses,FunPlus Phoenix,Pearl,13,8,Astra,Jett,Kayo,Sova,Killjoy,Astra,Skye,Killjoy,Jett,Omen
+7.02,Natus Vincere,DRX,Bind,13,15,Skye,Sage,Raze,Viper,Brimstone,Skye,Viper,Brimstone,Yoru,Raze
+7.02,Natus Vincere,DRX,Split,13,9,Jett,Cypher,Raze,Skye,Omen,Raze,Skye,Viper,Omen,Killjoy
+7.02,Natus Vincere,DRX,Lotus,12,14,Killjoy,Sova,Brimstone,Breach,Raze,Killjoy,Raze,Omen,Fade,Viper
+7.02,NRG Esports,Bilibili Gaming,Lotus,12,14,Raze,Omen,Killjoy,Skye,Viper,Fade,Raze,Killjoy,Viper,Omen
+7.02,NRG Esports,Bilibili Gaming,Split,8,13,Skye,Astra,Jett,Raze,Viper,Raze,Viper,Skye,Cypher,Omen
+7.02,FNATIC,ZETA DIVISION,Fracture,13,5,Killjoy,Raze,Sova,Breach,Brimstone,Raze,Brimstone,Chamber,Neon,Breach
+7.02,FNATIC,ZETA DIVISION,Haven,13,6,Killjoy,Sova,Breach,Astra,Jett,Killjoy,Chamber,Astra,Raze,Skye
+7.02,Evil Geniuses,FUT Esports,Pearl,15,13,Kayo,Killjoy,Sova,Astra,Jett,Kayo,Viper,Brimstone,Killjoy,Jett
+7.02,Evil Geniuses,FUT Esports,Bind,13,9,Raze,Chamber,Viper,Brimstone,Skye,Raze,Viper,Kayo,Fade,Brimstone
+7.02,Paper Rex,KRÜ Esports,Split,13,7,Astra,Jett,Raze,Skye,Viper,Raze,Chamber,Astra,Skye,Viper
+7.02,Paper Rex,KRÜ Esports,Pearl,13,8,Astra,Skye,Jett,Phoenix,Killjoy,Jett,Viper,Killjoy,Skye,Harbor
+7.02,EDward Gaming,Giants Gaming,Split,13,15,Skye,Raze,Astra,Viper,Jett,Raze,Breach,Cypher,Omen,Skye
+7.02,EDward Gaming,Giants Gaming,Bind,13,11,Skye,Brimstone,Chamber,Viper,Raze,Skye,Raze,Cypher,Viper,Brimstone
+7.02,EDward Gaming,Giants Gaming,Ascent,13,8,Sova,Killjoy,Jett,Omen,Kayo,Kayo,Sova,Jett,Killjoy,Omen
+7.02,FNATIC,Bilibili Gaming,Haven,13,2,Astra,Breach,Jett,Killjoy,Sova,Killjoy,Jett,Sova,Breach,Omen
+7.02,FNATIC,Bilibili Gaming,Lotus,13,8,Viper,Fade,Raze,Killjoy,Astra,Viper,Killjoy,Raze,Fade,Omen
+7.02,Team Liquid,LOUD,Haven,2,13,Jett,Killjoy,Skye,Omen,Breach,Killjoy,Harbor,Skye,Jett,Viper
+7.02,Team Liquid,LOUD,Split,8,13,Raze,Skye,Astra,Jett,Viper,Astra,Skye,Breach,Killjoy,Raze
+7.02,FunPlus Phoenix,T1,Lotus,10,13,Raze,Gekko,Harbor,Killjoy,Viper,Viper,Raze,Killjoy,Omen,Fade
+7.02,FunPlus Phoenix,T1,Bind,7,13,Skye,Viper,Raze,Jett,Harbor,Jett,Viper,Harbor,Skye,Gekko
+7.02,Paper Rex,EDward Gaming,Fracture,13,7,Brimstone,Skye,Breach,Raze,Killjoy,Jett,Killjoy,Brimstone,Breach,Skye
+7.02,Paper Rex,EDward Gaming,Pearl,16,14,Killjoy,Skye,Phoenix,Astra,Jett,Killjoy,Jett,Viper,Omen,Fade
+7.02,KRÜ Esports,Giants Gaming,Lotus,10,13,Killjoy,Raze,Viper,Omen,Skye,Killjoy,Viper,Omen,Raze,Skye
+7.02,KRÜ Esports,Giants Gaming,Pearl,12,14,Jett,Killjoy,Viper,Skye,Harbor,Skye,Jett,Sova,Astra,Cypher
+7.02,ZETA DIVISION,NRG Esports,Bind,13,15,Neon,Viper,Skye,Raze,Brimstone,Skye,Chamber,Raze,Viper,Brimstone
+7.02,ZETA DIVISION,NRG Esports,Haven,1,13,Killjoy,Chamber,Skye,Raze,Astra,Jett,Harbor,Viper,Killjoy,Skye
+7.02,Natus Vincere,LOUD,Pearl,13,11,Jett,Sova,Killjoy,Kayo,Astra,Fade,Killjoy,Breach,Astra,Jett
+7.02,Natus Vincere,LOUD,Ascent,11,13,Fade,Jett,Kayo,Killjoy,Omen,Sova,Kayo,Omen,Jett,Killjoy
+7.02,Natus Vincere,LOUD,Bind,11,13,Neon,Viper,Brimstone,Raze,Skye,Viper,Raze,Brimstone,Omen,Skye
+7.02,FUT Esports,T1,Bind,13,10,Fade,Kayo,Brimstone,Viper,Raze,Skye,Jett,Harbor,Gekko,Viper
+7.02,FUT Esports,T1,Pearl,14,12,Killjoy,Kayo,Viper,Brimstone,Jett,Jett,Skye,Viper,Harbor,Killjoy
+7.02,EDward Gaming,Giants Gaming,Split,13,6,Raze,Viper,Skye,Jett,Astra,Skye,Raze,Breach,Omen,Cypher
+7.02,EDward Gaming,Giants Gaming,Fracture,13,7,Killjoy,Brimstone,Breach,Skye,Jett,Sova,Breach,Brimstone,Killjoy,Raze
+7.02,Bilibili Gaming,NRG Esports,Bind,13,10,Viper,Raze,Cypher,Skye,Brimstone,Raze,Skye,Viper,Brimstone,Chamber
+7.02,Bilibili Gaming,NRG Esports,Ascent,13,5,Jett,Omen,Kayo,Killjoy,Sova,Kayo,Jett,Sova,Killjoy,Omen
+7.02,FNATIC,LOUD,Ascent,11,13,Killjoy,Sova,Kayo,Jett,Omen,Sova,Jett,Killjoy,Omen,Kayo
+7.02,FNATIC,LOUD,Lotus,6,13,Raze,Astra,Fade,Killjoy,Viper,Raze,Killjoy,Omen,Fade,Viper
+7.02,Paper Rex,FUT Esports,Ascent,13,10,Reyna,Skye,Harbor,Raze,Viper,Sova,Kayo,Jett,Killjoy,Omen
+7.02,Paper Rex,FUT Esports,Pearl,13,4,Skye,Killjoy,Jett,Astra,Phoenix,Brimstone,Jett,Killjoy,Viper,Kayo
+7.02,DRX,Bilibili Gaming,Lotus,13,10,Omen,Raze,Viper,Killjoy,Fade,Raze,Viper,Omen,Fade,Killjoy
+7.02,DRX,Bilibili Gaming,Haven,13,9,Viper,Jett,Omen,Skye,Killjoy,Sova,Breach,Omen,Jett,Killjoy
+7.02,Evil Geniuses,EDward Gaming,Split,12,14,Skye,Astra,Viper,Raze,Chamber,Viper,Astra,Jett,Skye,Raze
+7.02,Evil Geniuses,EDward Gaming,Ascent,13,5,Jett,Kayo,Killjoy,Omen,Sova,Sova,Killjoy,Jett,Kayo,Omen
+7.02,Evil Geniuses,EDward Gaming,Pearl,13,5,Jett,Yoru,Sova,Killjoy,Astra,Killjoy,Viper,Omen,Skye,Jett
+7.02,FNATIC,FUT Esports,Split,13,5,Cypher,Breach,Raze,Skye,Omen,Omen,Skye,Kayo,Viper,Jett
+7.02,FNATIC,FUT Esports,Haven,13,9,Killjoy,Breach,Sova,Jett,Astra,Omen,Gekko,Breach,Killjoy,Jett
+7.02,Bilibili Gaming,EDward Gaming,Bind,4,13,Cypher,Raze,Brimstone,Viper,Skye,Viper,Raze,Chamber,Brimstone,Skye
+7.02,Bilibili Gaming,EDward Gaming,Split,15,13,Raze,Skye,Cypher,Viper,Omen,Jett,Skye,Astra,Viper,Raze
+7.02,Bilibili Gaming,EDward Gaming,Haven,10,13,Killjoy,Breach,Sova,Jett,Omen,Sova,Omen,Jett,Cypher,Breach
+7.02,LOUD,Paper Rex,Lotus,13,15,Omen,Fade,Raze,Killjoy,Viper,Jett,Skye,Raze,Astra,Omen
+7.02,LOUD,Paper Rex,Split,13,2,Killjoy,Breach,Skye,Astra,Raze,Viper,Astra,Jett,Raze,Skye
+7.02,LOUD,Paper Rex,Pearl,10,13,Jett,Fade,Astra,Killjoy,Breach,Jett,Phoenix,Killjoy,Skye,Astra
+7.02,DRX,Evil Geniuses,Fracture,9,13,Raze,Viper,Brimstone,Breach,Killjoy,Brimstone,Sova,Breach,Killjoy,Raze
+7.02,DRX,Evil Geniuses,Lotus,4,13,Viper,Fade,Killjoy,Raze,Omen,Astra,Killjoy,Skye,Viper,Raze
+7.02,LOUD,EDward Gaming,Bind,11,13,Brimstone,Raze,Skye,Viper,Omen,Reyna,Skye,Viper,Raze,Brimstone
+7.02,LOUD,EDward Gaming,Ascent,13,5,Omen,Sova,Kayo,Killjoy,Jett,Kayo,Killjoy,Jett,Omen,Sova
+7.02,LOUD,EDward Gaming,Haven,13,11,Skye,Killjoy,Jett,Viper,Harbor,Breach,Cypher,Omen,Jett,Sova
+7.02,DRX,FNATIC,Bind,13,1,Brimstone,Skye,Viper,Yoru,Raze,Viper,Raze,Chamber,Brimstone,Skye
+7.02,DRX,FNATIC,Haven,9,13,Jett,Omen,Killjoy,Viper,Skye,Killjoy,Sova,Jett,Astra,Breach
+7.02,DRX,FNATIC,Split,6,13,Omen,Skye,Raze,Killjoy,Viper,Skye,Breach,Omen,Raze,Cypher
+7.02,Paper Rex,Evil Geniuses,Ascent,10,13,Viper,Reyna,Raze,Harbor,Skye,Sova,Omen,Kayo,Killjoy,Jett
+7.02,Paper Rex,Evil Geniuses,Bind,13,9,Raze,Skye,Brimstone,Harbor,Reyna,Viper,Chamber,Skye,Raze,Brimstone
+7.02,Paper Rex,Evil Geniuses,Pearl,15,13,Astra,Killjoy,Phoenix,Skye,Jett,Jett,Astra,Yoru,Sova,Killjoy
+7.02,FNATIC,LOUD,Split,4,13,Cypher,Omen,Raze,Skye,Breach,Killjoy,Breach,Skye,Astra,Raze
+7.02,FNATIC,LOUD,Ascent,13,9,Sova,Jett,Omen,Killjoy,Kayo,Sova,Jett,Kayo,Omen,Killjoy
+7.02,FNATIC,LOUD,Haven,7,13,Sova,Jett,Astra,Breach,Killjoy,Jett,Skye,Killjoy,Viper,Harbor
+7.02,Evil Geniuses,LOUD,Ascent,14,12,Jett,Kayo,Sova,Omen,Killjoy,Killjoy,Jett,Kayo,Sova,Omen
+7.02,Evil Geniuses,LOUD,Lotus,13,4,Raze,Astra,Skye,Killjoy,Viper,Killjoy,Viper,Omen,Raze,Fade
+7.02,Evil Geniuses,LOUD,Pearl,8,13,Jett,Sova,Astra,Yoru,Killjoy,Viper,Jett,Killjoy,Skye,Harbor
+7.02,Evil Geniuses,LOUD,Split,7,13,Chamber,Skye,Viper,Astra,Raze,Raze,Skye,Astra,Breach,Killjoy
+7.02,Evil Geniuses,LOUD,Bind,13,8,Skye,Chamber,Brimstone,Raze,Viper,Omen,Viper,Raze,Brimstone,Skye
+7.02,Paper Rex,Evil Geniuses,Split,10,13,Viper,Skye,Jett,Astra,Raze,Jett,Raze,Astra,Skye,Viper
+7.02,Paper Rex,Evil Geniuses,Ascent,13,11,Reyna,Kayo,Raze,Harbor,Viper,Kayo,Sova,Killjoy,Jett,Omen
+7.02,Paper Rex,Evil Geniuses,Bind,5,13,Breach,Brimstone,Raze,Yoru,Skye,Raze,Viper,Chamber,Skye,Brimstone
+7.02,Paper Rex,Evil Geniuses,Lotus,10,13,Raze,Skye,Astra,Omen,Jett,Astra,Raze,Killjoy,Skye,Viper

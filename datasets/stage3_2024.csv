@@ -1,0 +1,84 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+8.10,FUT Esports,KOI,Split,13,7,Breach,Gekko,Cypher,Raze,Omen,Raze,Omen,Viper,Fade,Yoru
+8.10,FUT Esports,KOI,Lotus,7,13,Jett,Breach,Viper,Omen,Cypher,Cypher,Omen,Fade,Neon,Yoru
+8.10,FUT Esports,KOI,Sunset,13,6,Gekko,Omen,Breach,Cypher,Raze,Omen,Kayo,Cypher,Neon,Gekko
+8.10,BBL Esports,FNATIC,Ascent,9,13,Jett,Kayo,Sova,Omen,Cypher,Jett,Sova,Deadlock,Cypher,Omen
+8.10,BBL Esports,FNATIC,Bind,13,11,Raze,Viper,Gekko,Brimstone,Fade,Raze,Skye,Gekko,Brimstone,Viper
+8.10,BBL Esports,FNATIC,Lotus,11,13,Raze,Omen,Cypher,Fade,Breach,Viper,Raze,Fade,Killjoy,Omen
+8.10,Team Heretics,Natus Vincere,Sunset,13,3,Kayo,Omen,Sova,Neon,Cypher,Cypher,Omen,Sova,Kayo,Jett
+8.10,Team Heretics,Natus Vincere,Bind,13,5,Fade,Raze,Viper,Gekko,Brimstone,Gekko,Raze,Fade,Brimstone,Viper
+8.10,GIANTX,Gentle Mates,Split,1,13,Jett,Breach,Killjoy,Raze,Omen,Cypher,Raze,Yoru,Breach,Omen
+8.10,GIANTX,Gentle Mates,Sunset,13,11,Cypher,Raze,Gekko,Omen,Breach,Omen,Cypher,Sova,Kayo,Neon
+8.10,GIANTX,Gentle Mates,Breeze,13,11,Yoru,Jett,Cypher,Viper,Sova,Kayo,Viper,Sova,Cypher,Yoru
+8.10,Team Vitality,Team Liquid,Lotus,13,10,Neon,Fade,Cypher,Gekko,Omen,Cypher,Fade,Yoru,Omen,Raze
+8.10,Team Vitality,Team Liquid,Icebox,17,15,Viper,Killjoy,Sova,Jett,Gekko,Sova,Viper,Jett,Killjoy,Sage
+8.10,BBL Esports,Karmine Corp,Lotus,6,13,Fade,Cypher,Raze,Omen,Breach,Fade,Cypher,Sova,Yoru,Omen
+8.10,BBL Esports,Karmine Corp,Sunset,5,13,Cypher,Breach,Gekko,Raze,Omen,Omen,Raze,Breach,Cypher,Jett
+8.10,Natus Vincere,FUT Esports,Ascent,11,13,Kayo,Jett,Omen,Sova,Cypher,Killjoy,Kayo,Sova,Jett,Omen
+8.10,Natus Vincere,FUT Esports,Lotus,5,13,Cypher,Breach,Omen,Jett,Sova,Jett,Omen,Breach,Cypher,Viper
+8.11,KOI,GIANTX,Sunset,13,5,Omen,Raze,Cypher,Kayo,Sova,Cypher,Breach,Omen,Gekko,Raze
+8.11,KOI,GIANTX,Icebox,14,12,Viper,Jett,Kayo,Killjoy,Gekko,Sova,Jett,Killjoy,Viper,Sage
+8.11,Team Heretics,FUT Esports,Sunset,13,10,Sova,Kayo,Omen,Neon,Cypher,Raze,Cypher,Breach,Gekko,Omen
+8.11,Team Heretics,FUT Esports,Split,13,6,Omen,Iso,Neon,Cypher,Breach,Raze,Breach,Omen,Cypher,Gekko
+8.11,FNATIC,Team Vitality,Haven,13,6,Iso,Sova,Cypher,Omen,Yoru,Sova,Iso,Omen,Killjoy,Neon
+8.11,FNATIC,Team Vitality,Icebox,6,13,Sova,Reyna,Killjoy,Gekko,Viper,Viper,Killjoy,Sova,Gekko,Iso
+8.11,FNATIC,Team Vitality,Lotus,13,7,Raze,Killjoy,Omen,Fade,Viper,Fade,Cypher,Neon,Gekko,Omen
+8.11,BBL Esports,Team Liquid,Lotus,13,6,Cypher,Breach,Omen,Fade,Neon,Breach,Cypher,Raze,Omen,Fade
+8.11,BBL Esports,Team Liquid,Ascent,13,5,Omen,Cypher,Jett,Kayo,Sova,Sova,Cypher,Omen,Iso,Jett
+8.11,Natus Vincere,GIANTX,Lotus,9,13,Killjoy,Gekko,Brimstone,Raze,Breach,Neon,Skye,Omen,Fade,Killjoy
+8.11,Natus Vincere,GIANTX,Ascent,8,13,Jett,Omen,Kayo,Cypher,Sova,Jett,Omen,Sova,Kayo,Cypher
+8.11,KOI,Gentle Mates,Sunset,11,13,Cypher,Omen,Raze,Kayo,Sova,Neon,Cypher,Sage,Omen,Kayo
+8.11,KOI,Gentle Mates,Split,11,13,Omen,Viper,Raze,Fade,Breach,Yoru,Raze,Omen,Cypher,Breach
+8.11,FNATIC,Karmine Corp,Haven,13,3,Cypher,Yoru,Iso,Sova,Omen,Yoru,Killjoy,Gekko,Harbor,Viper
+8.11,FNATIC,Karmine Corp,Lotus,13,8,Viper,Raze,Omen,Killjoy,Fade,Yoru,Cypher,Fade,Sova,Omen
+9.0,Team Heretics,GIANTX,Bind,13,9,Brimstone,Viper,Gekko,Raze,Fade,Raze,Viper,Omen,Skye,Yoru
+9.0,Team Heretics,GIANTX,Split,13,15,Cypher,Iso,Breach,Neon,Omen,Omen,Cypher,Breach,Raze,Jett
+9.0,Team Heretics,GIANTX,Haven,13,9,Breach,Cypher,Omen,Iso,Neon,Neon,Sova,Killjoy,Breach,Omen
+9.0,FUT Esports,Gentle Mates,Sunset,13,8,Raze,Cypher,Omen,Gekko,Breach,Sage,Omen,Neon,Cypher,Kayo
+9.0,FUT Esports,Gentle Mates,Split,13,4,Omen,Breach,Cypher,Gekko,Raze,Raze,Yoru,Cypher,Breach,Omen
+9.0,KOI,Natus Vincere,Split,13,10,Viper,Omen,Breach,Fade,Raze,Yoru,Fade,Astra,Cypher,Raze
+9.0,KOI,Natus Vincere,Icebox,13,6,Jett,Gekko,Kayo,Viper,Killjoy,Viper,Sova,Gekko,Cypher,Jett
+9.0,Team Liquid,Karmine Corp,Bind,13,11,Raze,Viper,Astra,Skye,Fade,Omen,Yoru,Fade,Sova,Harbor
+9.0,Team Liquid,Karmine Corp,Sunset,13,2,Sage,Omen,Kayo,Viper,Gekko,Neon,Sova,Omen,Cypher,Kayo
+9.0,BBL Esports,Team Vitality,Ascent,7,13,Cypher,Jett,Sova,Kayo,Omen,Sova,Kayo,Jett,Killjoy,Omen
+9.0,BBL Esports,Team Vitality,Sunset,13,6,Omen,Cypher,Kayo,Raze,Gekko,Sova,Kayo,Cypher,Neon,Omen
+9.0,BBL Esports,Team Vitality,Lotus,11,13,Omen,Neon,Fade,Cypher,Breach,Raze,Fade,Breach,Omen,Cypher
+9.0,Team Heretics,Gentle Mates,Sunset,13,7,Sova,Omen,Cypher,Neon,Kayo,Cypher,Raze,Neon,Omen,Kayo
+9.0,Team Heretics,Gentle Mates,Icebox,10,13,Jett,Killjoy,Kayo,Viper,Sova,Gekko,Viper,Omen,Kayo,Killjoy
+9.0,Team Heretics,Gentle Mates,Lotus,13,5,Cypher,Omen,Neon,Fade,Breach,Omen,Cypher,Viper,Fade,Neon
+9.0,FUT Esports,GIANTX,Split,13,4,Cypher,Breach,Omen,Raze,Gekko,Cypher,Raze,Breach,Jett,Omen
+9.0,FUT Esports,GIANTX,Lotus,13,6,Viper,Jett,Cypher,Omen,Breach,Neon,Omen,Fade,Killjoy,Skye
+9.0,Team Heretics,KOI,Icebox,11,13,Killjoy,Jett,Sova,Kayo,Viper,Killjoy,Jett,Viper,Gekko,Kayo
+9.0,Team Heretics,KOI,Bind,13,9,Viper,Brimstone,Fade,Raze,Gekko,Brimstone,Viper,Kayo,Raze,Gekko
+9.0,Team Heretics,KOI,Haven,13,10,Neon,Breach,Cypher,Omen,Iso,Omen,Breach,Cypher,Jett,Sova
+9.0,FNATIC,Team Liquid,Icebox,13,2,Iso,Gekko,Viper,Killjoy,Sova,Reyna,Viper,Chamber,Sova,Sage
+9.0,FNATIC,Team Liquid,Haven,13,9,Sova,Yoru,Iso,Cypher,Omen,Omen,Sova,Killjoy,Jett,Breach
+9.0,Natus Vincere,Gentle Mates,Sunset,13,7,Cypher,Sova,Omen,Kayo,Neon,Sova,Omen,Cypher,Neon,Kayo
+9.0,Natus Vincere,Gentle Mates,Ascent,8,13,Jett,Kayo,Cypher,Omen,Fade,Omen,Kayo,Cypher,Sova,Jett
+9.0,Natus Vincere,Gentle Mates,Split,13,11,Breach,Viper,Fade,Omen,Raze,Omen,Breach,Yoru,Cypher,Raze
+9.0,Team Vitality,Karmine Corp,Icebox,13,4,Killjoy,Sova,Gekko,Jett,Viper,Skye,Harbor,Gekko,Kayo,Neon
+9.0,Team Vitality,Karmine Corp,Lotus,9,13,Fade,Omen,Breach,Raze,Cypher,Fade,Sova,Yoru,Cypher,Omen
+9.0,Team Vitality,Karmine Corp,Sunset,14,12,Neon,Kayo,Sova,Omen,Cypher,Omen,Jett,Raze,Breach,Cypher
+9.0,Team Vitality,Natus Vincere,Haven,8,13,Jett,Breach,Sova,Cypher,Omen,Sova,Yoru,Neon,Cypher,Omen
+9.0,Team Vitality,Natus Vincere,Sunset,13,5,Neon,Kayo,Sova,Omen,Cypher,Neon,Sova,Kayo,Cypher,Omen
+9.0,Team Vitality,Natus Vincere,Ascent,13,7,Sova,Kayo,Omen,Jett,Killjoy,Cypher,Kayo,Jett,Omen,Sova
+9.0,FNATIC,Karmine Corp,Icebox,7,13,Killjoy,Viper,Sova,Iso,Gekko,Jett,Viper,Killjoy,Sova,Gekko
+9.0,FNATIC,Karmine Corp,Sunset,15,13,Cypher,Breach,Raze,Sova,Astra,Raze,Omen,Breach,Jett,Cypher
+9.0,FNATIC,Karmine Corp,Lotus,13,6,Viper,Fade,Killjoy,Omen,Raze,Fade,Yoru,Cypher,Omen,Sova
+9.0,Team Heretics,Team Vitality,Icebox,14,12,Viper,Killjoy,Gekko,Sova,Neon,Sova,Viper,Gekko,Jett,Killjoy
+9.0,Team Heretics,Team Vitality,Sunset,10,13,Omen,Neon,Cypher,Sova,Kayo,Neon,Sova,Kayo,Cypher,Omen
+9.0,Team Heretics,Team Vitality,Bind,12,14,Gekko,Brimstone,Viper,Raze,Fade,Fade,Raze,Omen,Viper,Gekko
+9.0,FUT Esports,FNATIC,Sunset,13,15,Breach,Cypher,Gekko,Omen,Raze,Sova,Raze,Cypher,Breach,Astra
+9.0,FUT Esports,FNATIC,Haven,5,13,Killjoy,Sova,Jett,Sage,Omen,Iso,Omen,Sova,Yoru,Cypher
+9.0,Team Vitality,FNATIC,Lotus,11,13,Raze,Cypher,Fade,Omen,Breach,Raze,Fade,Viper,Killjoy,Omen
+9.0,Team Vitality,FNATIC,Sunset,6,13,Neon,Kayo,Sova,Cypher,Omen,Sova,Astra,Cypher,Raze,Breach
+9.0,Team Heretics,FUT Esports,Abyss,13,10,Breach,Raze,Gekko,Astra,Cypher,Gekko,Jett,Deadlock,Cypher,Omen
+9.0,Team Heretics,FUT Esports,Sunset,13,11,Sova,Cypher,Omen,Kayo,Neon,Omen,Cypher,Breach,Raze,Gekko
+9.0,Team Vitality,Team Heretics,Icebox,6,13,Sova,Viper,Jett,Gekko,Killjoy,Sova,Gekko,Neon,Viper,Killjoy
+9.0,Team Vitality,Team Heretics,Sunset,13,4,Cypher,Omen,Sova,Neon,Kayo,Kayo,Sova,Omen,Cypher,Neon
+9.0,Team Vitality,Team Heretics,Lotus,13,3,Raze,Fade,Omen,Cypher,Breach,Neon,Cypher,Fade,Breach,Omen
+9.0,Team Vitality,Team Heretics,Haven,13,9,Sova,Cypher,Jett,Breach,Omen,Breach,Cypher,Omen,Sova,Neon
+9.0,FNATIC,Team Vitality,Haven,13,8,Iso,Yoru,Omen,Cypher,Sova,Sova,Breach,Omen,Cypher,Jett
+9.0,FNATIC,Team Vitality,Ascent,9,13,Sova,Iso,Cypher,Yoru,Astra,Jett,Sova,Killjoy,Kayo,Omen
+9.0,FNATIC,Team Vitality,Lotus,13,9,Viper,Killjoy,Raze,Omen,Fade,Breach,Cypher,Omen,Fade,Raze
+9.0,FNATIC,Team Vitality,Bind,13,3,Skye,Viper,Gekko,Clove,Raze,Gekko,Raze,Fade,Viper,Omen

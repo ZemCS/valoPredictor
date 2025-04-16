@@ -1,0 +1,42 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+2.09,FNATIC,KRÜ Esports,Haven,13,5,Sage,Jett,Killjoy,Skye,Astra,Viper,Sage,Killjoy,Skye,Astra
+2.09,FNATIC,KRÜ Esports,Icebox,13,4,Jett,Killjoy,Viper,Sova,Sage,Killjoy,Viper,Sova,Sage,Jett
+2.09,Version1,Crazy Raccoon,Ascent,13,11,Phoenix,Killjoy,Jett,Sova,Astra,Raze,Astra,Sova,Jett,Killjoy
+2.09,Version1,Crazy Raccoon,Icebox,13,10,Jett,Phoenix,Sova,Omen,Viper,Killjoy,Raze,Sova,Jett,Omen
+2.09,Sharks Esports,NUTURN,Haven,13,5,Sage,Sova,Raze,Killjoy,Omen,Sova,Jett,Astra,Raze,Breach
+2.09,Sharks Esports,NUTURN,Bind,5,13,Skye,Viper,Brimstone,Raze,Sova,Omen,Sova,Raze,Jett,Breach
+2.09,Sharks Esports,NUTURN,Ascent,5,13,Raze,Omen,Sova,Phoenix,Killjoy,Sova,Killjoy,Skye,Astra,Jett
+2.09,Team Vikings,X10 Esports,Icebox,13,11,Jett,Sova,Killjoy,Raze,Omen,Jett,Cypher,Skye,Viper,Sova
+2.09,Team Vikings,X10 Esports,Ascent,14,12,Sova,Killjoy,Omen,Raze,Phoenix,Sage,Sova,Killjoy,Astra,Skye
+2.09,Team Liquid,Version1,Split,16,14,Viper,Sage,Skye,Brimstone,Jett,Jett,Sage,Astra,Viper,Killjoy
+2.09,Team Liquid,Version1,Ascent,11,13,Jett,Phoenix,Killjoy,Sova,Omen,Jett,Killjoy,Sova,Astra,Viper
+2.09,Team Liquid,Version1,Haven,4,13,Sage,Brimstone,Viper,Skye,Killjoy,Killjoy,Sova,Jett,Viper,Astra
+2.09,Sentinels,FNATIC,Icebox,13,11,Jett,Reyna,Viper,Sage,Sova,Viper,Killjoy,Sova,Sage,Jett
+2.09,Sentinels,FNATIC,Haven,13,10,Jett,Cypher,Astra,Sova,Phoenix,Jett,Astra,Sage,Skye,Killjoy
+2.09,X10 Esports,Crazy Raccoon,Haven,13,9,Viper,Astra,Jett,Skye,Killjoy,Phoenix,Killjoy,Jett,Sova,Astra
+2.09,X10 Esports,Crazy Raccoon,Icebox,13,5,Cypher,Breach,Viper,Jett,Sova,Killjoy,Jett,Sova,Viper,Sage
+2.09,Sharks Esports,KRÜ Esports,Icebox,5,13,Raze,Sova,Omen,Sage,Jett,Sova,Jett,Sage,Killjoy,Viper
+2.09,Sharks Esports,KRÜ Esports,Bind,6,13,Raze,Brimstone,Viper,Sova,Skye,Brimstone,Viper,Skye,Sage,Raze
+2.09,Sentinels,Team Vikings,Icebox,13,7,Reyna,Jett,Sova,Sage,Viper,Sova,Raze,Killjoy,Omen,Jett
+2.09,Sentinels,Team Vikings,Haven,13,6,Jett,Phoenix,Sova,Cypher,Astra,Sova,Astra,Phoenix,Raze,Cypher
+2.09,Version1,NUTURN,Haven,13,3,Killjoy,Jett,Viper,Sova,Astra,Raze,Jett,Sova,Astra,Breach
+2.09,Version1,NUTURN,Ascent,13,15,Sova,Astra,Viper,Killjoy,Jett,Astra,Sova,Killjoy,Jett,Skye
+2.09,Version1,NUTURN,Split,12,14,Killjoy,Astra,Viper,Jett,Sage,Raze,Omen,Breach,Jett,Killjoy
+2.09,FNATIC,X10 Esports,Icebox,13,4,Viper,Sage,Killjoy,Sova,Jett,Sova,Breach,Jett,Killjoy,Viper
+2.09,FNATIC,X10 Esports,Haven,13,9,Sage,Skye,Jett,Astra,Killjoy,Astra,Viper,Skye,Jett,Killjoy
+2.09,Team Liquid,KRÜ Esports,Split,13,2,Sage,Skye,Jett,Brimstone,Viper,Killjoy,Sage,Omen,Raze,Jett
+2.09,Team Liquid,KRÜ Esports,Ascent,13,9,Omen,Phoenix,Sova,Jett,Killjoy,Killjoy,Sage,Sova,Omen,Jett
+2.09,Version1,FNATIC,Icebox,12,14,Sova,Jett,Omen,Killjoy,Viper,Jett,Killjoy,Sova,Sage,Viper
+2.09,Version1,FNATIC,Ascent,6,13,Astra,Sova,Phoenix,Killjoy,Jett,Omen,Jett,Viper,Skye,Cypher
+2.09,Team Vikings,Team Liquid,Ascent,8,13,Killjoy,Astra,Sova,Yoru,Jett,Jett,Omen,Sage,Killjoy,Sova
+2.09,Team Vikings,Team Liquid,Haven,5,13,Sova,Yoru,Jett,Cypher,Astra,Killjoy,Sage,Brimstone,Skye,Viper
+2.09,Sentinels,NUTURN,Bind,13,5,Raze,Reyna,Viper,Sova,Astra,Sova,Raze,Breach,Jett,Omen
+2.09,Sentinels,NUTURN,Haven,13,4,Phoenix,Jett,Sova,Cypher,Astra,Breach,Omen,Jett,Sova,Raze
+2.09,FNATIC,Team Liquid,Bind,13,10,Viper,Raze,Brimstone,Skye,Sova,Viper,Brimstone,Jett,Skye,Sage
+2.09,FNATIC,Team Liquid,Ascent,13,10,Cypher,Viper,Skye,Jett,Omen,Sage,Omen,Sova,Jett,Killjoy
+2.09,NUTURN,FNATIC,Bind,8,13,Sova,Omen,Raze,Jett,Breach,Raze,Sova,Skye,Viper,Brimstone
+2.09,NUTURN,FNATIC,Ascent,13,8,Jett,Astra,Sova,Killjoy,Skye,Jett,Cypher,Viper,Omen,Skye
+2.09,NUTURN,FNATIC,Haven,8,13,Sova,Jett,Omen,Cypher,Phoenix,Skye,Astra,Killjoy,Jett,Sage
+2.09,Sentinels,FNATIC,Split,14,12,Sage,Astra,Raze,Jett,Cypher,Cypher,Skye,Viper,Astra,Jett
+2.09,Sentinels,FNATIC,Bind,16,14,Reyna,Sova,Astra,Viper,Raze,Viper,Brimstone,Sova,Raze,Skye
+2.09,Sentinels,FNATIC,Haven,13,11,Sova,Jett,Cypher,Phoenix,Astra,Killjoy,Skye,Sage,Jett,Astra

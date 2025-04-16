@@ -1,0 +1,40 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+4.04,Cloud9,Knights,Ascent,14,12,Sova,Kayo,Jett,Killjoy,Omen,Jett,Sova,Sage,Astra,Killjoy
+4.04,Cloud9,Knights,Breeze,8,13,Jett,Kayo,Viper,Cypher,Sova,Kayo,Sova,Viper,Jett,Cypher
+4.04,Cloud9,Knights,Haven,13,6,Killjoy,Breach,Skye,Jett,Omen,Jett,Omen,Sova,Skye,Killjoy
+4.04,OpTic Gaming,XSET,Split,4,13,Chamber,Breach,Viper,Omen,Raze,Chamber,Astra,Skye,Viper,Raze
+4.04,OpTic Gaming,XSET,Ascent,13,9,Kayo,Brimstone,Jett,Sova,Killjoy,Sage,Jett,Sova,Brimstone,Cypher
+4.04,OpTic Gaming,XSET,Bind,13,7,Raze,Skye,Viper,Chamber,Brimstone,Jett,Astra,Sova,Viper,Raze
+4.04,Version1,Luminosity,Bind,10,13,Brimstone,Viper,Jett,Sova,Raze,Brimstone,Chamber,Raze,Sova,Sage
+4.04,Version1,Luminosity,Ascent,13,8,Astra,Sova,Jett,Kayo,Killjoy,Killjoy,Omen,Jett,Kayo,Sova
+4.04,Version1,Luminosity,Fracture,13,15,Sage,Brimstone,Chamber,Raze,Breach,Chamber,Brimstone,Cypher,Raze,Breach
+4.04,The Guard,Sentinels,Bind,13,6,Skye,Raze,Sage,Viper,Brimstone,Jett,Raze,Sova,Viper,Brimstone
+4.04,The Guard,Sentinels,Icebox,13,1,Jett,Chamber,Omen,Viper,Sova,Viper,Chamber,Sova,Jett,Omen
+4.04,Cloud9,OpTic Gaming,Haven,12,14,Jett,Skye,Killjoy,Omen,Breach,Chamber,Breach,Brimstone,Neon,Skye
+4.04,Cloud9,OpTic Gaming,Fracture,13,5,Chamber,Brimstone,Raze,Breach,Sage,Astra,Breach,Raze,Viper,Chamber
+4.04,Cloud9,OpTic Gaming,Ascent,8,13,Sova,Kayo,Jett,Killjoy,Omen,Jett,Brimstone,Kayo,Killjoy,Sova
+4.04,Luminosity,The Guard,Bind,10,13,Sova,Chamber,Sage,Raze,Brimstone,Raze,Sage,Skye,Viper,Brimstone
+4.04,Luminosity,The Guard,Icebox,5,13,Sova,Jett,Kayo,Chamber,Omen,Sova,Jett,Chamber,Viper,Omen
+4.04,Knights,XSET,Split,8,13,Breach,Astra,Chamber,Neon,Kayo,Chamber,Raze,Skye,Viper,Astra
+4.04,Knights,XSET,Breeze,7,13,Jett,Viper,Kayo,Sova,Cypher,Jett,Kayo,Cypher,Sova,Viper
+4.04,Version1,Sentinels,Haven,7,13,Omen,Jett,Kayo,Killjoy,Breach,Jett,Kayo,Sova,Omen,Killjoy
+4.04,Version1,Sentinels,Ascent,13,9,Killjoy,Sova,Astra,Kayo,Jett,Sova,Kayo,Killjoy,Astra,Jett
+4.04,Version1,Sentinels,Fracture,13,8,Chamber,Breach,Brimstone,Sage,Raze,Raze,Breach,Brimstone,Chamber,Viper
+4.04,Luminosity,XSET,Breeze,5,13,Sova,Cypher,Viper,Skye,Jett,Kayo,Jett,Sova,Cypher,Viper
+4.04,Luminosity,XSET,Ascent,5,13,Kayo,Omen,Sova,Killjoy,Jett,Jett,Kayo,Brimstone,Killjoy,Sova
+4.04,Cloud9,Version1,Breeze,10,13,Sova,Cypher,Jett,Viper,Kayo,Kayo,Viper,Cypher,Sova,Jett
+4.04,Cloud9,Version1,Ascent,13,10,Sova,Omen,Kayo,Jett,Killjoy,Astra,Kayo,Jett,Sova,Killjoy
+4.04,Cloud9,Version1,Fracture,13,7,Breach,Sage,Brimstone,Chamber,Raze,Brimstone,Chamber,Raze,Sage,Breach
+4.04,OpTic Gaming,The Guard,Split,13,10,Chamber,Astra,Kayo,Neon,Breach,Raze,Breach,Skye,Omen,Chamber
+4.04,OpTic Gaming,The Guard,Bind,13,4,Raze,Chamber,Brimstone,Viper,Skye,Sage,Brimstone,Skye,Raze,Viper
+4.04,XSET,Cloud9,Haven,4,13,Skye,Cypher,Sova,Brimstone,Jett,Chamber,Skye,Omen,Breach,Raze
+4.04,XSET,Cloud9,Split,13,11,Chamber,Raze,Skye,Viper,Astra,Raze,Killjoy,Omen,Chamber,Breach
+4.04,XSET,Cloud9,Ascent,2,13,Killjoy,Kayo,Jett,Brimstone,Sova,Jett,Killjoy,Omen,Sova,Kayo
+4.04,The Guard,Cloud9,Icebox,17,15,Sova,Jett,Viper,Omen,Chamber,Sage,Chamber,Viper,Jett,Sova
+4.04,The Guard,Cloud9,Haven,13,5,Jett,Skye,Breach,Chamber,Omen,Skye,Chamber,Breach,Raze,Omen
+4.04,The Guard,Cloud9,Split,13,10,Omen,Breach,Chamber,Jett,Skye,Chamber,Raze,Omen,Breach,Kayo
+4.04,OpTic Gaming,The Guard,Ascent,13,9,Jett,Killjoy,Brimstone,Kayo,Sova,Omen,Sova,Killjoy,Kayo,Jett
+4.04,OpTic Gaming,The Guard,Icebox,9,13,Viper,Sova,Kayo,Chamber,Sage,Sova,Viper,Jett,Chamber,Omen
+4.04,OpTic Gaming,The Guard,Breeze,2,13,Skye,Chamber,Viper,Jett,Sova,Kayo,Jett,Sova,Chamber,Viper
+4.04,OpTic Gaming,The Guard,Split,13,7,Chamber,Astra,Kayo,Neon,Breach,Raze,Omen,Skye,Chamber,Breach
+4.04,OpTic Gaming,The Guard,Haven,11,13,Skye,Chamber,Omen,Breach,Neon,Jett,Skye,Omen,Chamber,Breach

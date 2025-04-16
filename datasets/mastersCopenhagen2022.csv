@@ -1,0 +1,67 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+5.0,DRX,NORTHEPTION,Ascent,13,8,Jett,Kayo,Fade,Killjoy,Omen,Jett,Kayo,Fade,Killjoy,Astra
+5.0,DRX,NORTHEPTION,Bind,13,1,Viper,Brimstone,Chamber,Raze,Skye,Neon,Fade,Chamber,Brimstone,Breach
+5.0,LOUD,KRÜ Esports,Fracture,13,10,Sage,Brimstone,Raze,Breach,Chamber,Chamber,Raze,Sage,Brimstone,Breach
+5.0,LOUD,KRÜ Esports,Haven,9,13,Omen,Breach,Raze,Fade,Chamber,Raze,Breach,Fade,Chamber,Omen
+5.0,LOUD,KRÜ Esports,Icebox,10,13,Viper,Sage,Fade,Chamber,Kayo,Sage,Sova,Viper,Kayo,Chamber
+5.0,OpTic Gaming,Guild Esports,Icebox,11,13,Brimstone,Fade,Kayo,Viper,Chamber,Chamber,Sova,Viper,Kayo,Sage
+5.0,OpTic Gaming,Guild Esports,Split,14,16,Astra,Fade,Kayo,Raze,Chamber,Breach,Raze,Sage,Cypher,Omen
+5.0,FunPlus Phoenix,XERXIA Esports,Bind,14,12,Kayo,Viper,Brimstone,Raze,Fade,Viper,Brimstone,Chamber,Raze,Skye
+5.0,FunPlus Phoenix,XERXIA Esports,Ascent,9,13,Chamber,Sage,Fade,Kayo,Omen,Jett,Fade,Astra,Kayo,Killjoy
+5.0,FunPlus Phoenix,XERXIA Esports,Haven,13,10,Chamber,Raze,Fade,Omen,Kayo,Jett,Astra,Killjoy,Skye,Breach
+5.0,Guild Esports,KRÜ Esports,Bind,12,14,Fade,Skye,Raze,Astra,Viper,Raze,Brimstone,Chamber,Skye,Viper
+5.0,Guild Esports,KRÜ Esports,Fracture,13,6,Raze,Chamber,Breach,Brimstone,Sage,Raze,Breach,Brimstone,Chamber,Sage
+5.0,Guild Esports,KRÜ Esports,Icebox,16,14,Kayo,Sova,Viper,Chamber,Sage,Sage,Chamber,Kayo,Viper,Sova
+5.0,FunPlus Phoenix,DRX,Haven,13,8,Fade,Chamber,Raze,Omen,Breach,Jett,Astra,Breach,Killjoy,Sova
+5.0,FunPlus Phoenix,DRX,Fracture,6,13,Chamber,Raze,Fade,Viper,Omen,Kayo,Brimstone,Chamber,Fade,Neon
+5.0,FunPlus Phoenix,DRX,Breeze,6,13,Jett,Chamber,Kayo,Viper,Fade,Skye,Chamber,Viper,Sova,Jett
+5.0,XERXIA Esports,NORTHEPTION,Split,13,9,Chamber,Fade,Breach,Omen,Raze,Chamber,Breach,Jett,Omen,Sage
+5.0,XERXIA Esports,NORTHEPTION,Haven,8,13,Sova,Killjoy,Astra,Breach,Jett,Jett,Killjoy,Breach,Skye,Omen
+5.0,XERXIA Esports,NORTHEPTION,Bind,13,15,Viper,Chamber,Brimstone,Skye,Raze,Chamber,Skye,Raze,Viper,Brimstone
+5.0,OpTic Gaming,LOUD,Ascent,8,13,Sova,Fade,Chamber,Kayo,Astra,Jett,Kayo,Omen,Sova,Killjoy
+5.0,OpTic Gaming,LOUD,Fracture,13,8,Chamber,Brimstone,Neon,Kayo,Breach,Raze,Sage,Brimstone,Chamber,Breach
+5.0,OpTic Gaming,LOUD,Split,14,12,Raze,Chamber,Kayo,Astra,Fade,Fade,Viper,Raze,Breach,Astra
+5.0,FunPlus Phoenix,NORTHEPTION,Fracture,13,9,Chamber,Raze,Fade,Viper,Omen,Breach,Chamber,Raze,Neon,Brimstone
+5.0,FunPlus Phoenix,NORTHEPTION,Ascent,13,9,Chamber,Fade,Omen,Kayo,Sage,Killjoy,Chamber,Fade,Astra,Kayo
+5.0,KRÜ Esports,OpTic Gaming,Split,7,13,Viper,Chamber,Raze,Astra,Skye,Astra,Chamber,Kayo,Raze,Fade
+5.0,KRÜ Esports,OpTic Gaming,Haven,6,13,Fade,Raze,Chamber,Breach,Omen,Omen,Chamber,Neon,Breach,Skye
+5.0,Paper Rex,Guild Esports,Ascent,13,4,Fade,Astra,Raze,Kayo,Chamber,Chamber,Raze,Fade,Astra,Kayo
+5.0,Paper Rex,Guild Esports,Fracture,14,12,Chamber,Viper,Neon,Breach,Sage,Brimstone,Chamber,Breach,Raze,Sage
+5.0,FNATIC,FunPlus Phoenix,Icebox,13,10,Chamber,Viper,Sage,Sova,Killjoy,Sage,Chamber,Viper,Raze,Fade
+5.0,FNATIC,FunPlus Phoenix,Haven,13,4,Chamber,Sova,Omen,Raze,Breach,Chamber,Raze,Fade,Omen,Kayo
+5.0,LEVIATÁN,DRX,Ascent,13,6,Chamber,Kayo,Fade,Sova,Astra,Astra,Killjoy,Kayo,Jett,Fade
+5.0,LEVIATÁN,DRX,Breeze,5,13,Sova,Chamber,Skye,Viper,Kayo,Viper,Chamber,Skye,Jett,Sova
+5.0,LEVIATÁN,DRX,Haven,11,13,Raze,Omen,Chamber,Breach,Fade,Killjoy,Breach,Omen,Jett,Sova
+5.0,XSET,OpTic Gaming,Haven,7,13,Chamber,Jett,Skye,Omen,Breach,Chamber,Neon,Breach,Omen,Skye
+5.0,XSET,OpTic Gaming,Bind,6,13,Chamber,Brimstone,Viper,Raze,Skye,Skye,Viper,Raze,Brimstone,Chamber
+5.0,Guild Esports,FunPlus Phoenix,Ascent,11,13,Chamber,Raze,Fade,Kayo,Astra,Chamber,Sage,Fade,Kayo,Omen
+5.0,Guild Esports,FunPlus Phoenix,Breeze,13,3,Jett,Viper,Cypher,Sova,Kayo,Sova,Chamber,Viper,Kayo,Yoru
+5.0,Guild Esports,FunPlus Phoenix,Bind,4,13,Skye,Astra,Raze,Viper,Fade,Kayo,Raze,Brimstone,Fade,Viper
+5.0,LEVIATÁN,XSET,Split,9,13,Astra,Neon,Kayo,Chamber,Breach,Raze,Chamber,Omen,Viper,Sage
+5.0,LEVIATÁN,XSET,Ascent,15,13,Astra,Chamber,Fade,Sova,Kayo,Jett,Sova,Omen,Kayo,Killjoy
+5.0,LEVIATÁN,XSET,Haven,16,14,Chamber,Raze,Fade,Omen,Breach,Chamber,Jett,Breach,Omen,Skye
+5.0,Paper Rex,FNATIC,Ascent,13,11,Astra,Chamber,Raze,Kayo,Fade,Sage,Omen,Kayo,Chamber,Fade
+5.0,Paper Rex,FNATIC,Bind,13,10,Raze,Yoru,Breach,Fade,Brimstone,Viper,Fade,Astra,Raze,Skye
+5.0,DRX,OpTic Gaming,Fracture,13,4,Fade,Chamber,Brimstone,Kayo,Neon,Chamber,Brimstone,Breach,Kayo,Neon
+5.0,DRX,OpTic Gaming,Breeze,4,13,Chamber,Skye,Viper,Sova,Jett,Chamber,Viper,Kayo,Jett,Sova
+5.0,DRX,OpTic Gaming,Bind,11,13,Viper,Brimstone,Skye,Raze,Chamber,Raze,Brimstone,Chamber,Skye,Viper
+5.0,FNATIC,LEVIATÁN,Fracture,14,12,Raze,Chamber,Viper,Breach,Brimstone,Chamber,Kayo,Breach,Brimstone,Neon
+5.0,FNATIC,LEVIATÁN,Ascent,10,13,Sage,Chamber,Kayo,Fade,Omen,Astra,Chamber,Sova,Fade,Kayo
+5.0,FNATIC,LEVIATÁN,Bind,17,15,Astra,Fade,Viper,Skye,Raze,Viper,Chamber,Brimstone,Skye,Raze
+5.0,DRX,FunPlus Phoenix,Ascent,9,13,Astra,Fade,Kayo,Sova,Chamber,Kayo,Sage,Jett,Fade,Omen
+5.0,DRX,FunPlus Phoenix,Fracture,5,13,Chamber,Neon,Fade,Kayo,Brimstone,Chamber,Omen,Viper,Raze,Fade
+5.0,Paper Rex,OpTic Gaming,Haven,13,3,Fade,Chamber,Raze,Sage,Astra,Chamber,Neon,Breach,Omen,Skye
+5.0,Paper Rex,OpTic Gaming,Bind,9,13,Brimstone,Chamber,Viper,Fade,Raze,Chamber,Skye,Raze,Viper,Brimstone
+5.0,Paper Rex,OpTic Gaming,Fracture,13,5,Breach,Chamber,Raze,Viper,Neon,Chamber,Kayo,Neon,Brimstone,Breach
+5.0,FunPlus Phoenix,FNATIC,Split,13,15,Killjoy,Kayo,Raze,Astra,Viper,Chamber,Raze,Fade,Omen,Viper
+5.0,FunPlus Phoenix,FNATIC,Bind,13,7,Viper,Fade,Raze,Brimstone,Kayo,Viper,Raze,Fade,Skye,Astra
+5.0,FunPlus Phoenix,FNATIC,Fracture,13,5,Fade,Viper,Raze,Chamber,Omen,Chamber,Raze,Viper,Breach,Brimstone
+5.0,OpTic Gaming,FunPlus Phoenix,Split,6,13,Chamber,Astra,Kayo,Raze,Fade,Omen,Killjoy,Kayo,Raze,Viper
+5.0,OpTic Gaming,FunPlus Phoenix,Icebox,8,13,Viper,Kayo,Chamber,Sova,Neon,Chamber,Sage,Kayo,Fade,Viper
+5.0,OpTic Gaming,FunPlus Phoenix,Bind,13,6,Skye,Raze,Brimstone,Chamber,Viper,Fade,Viper,Kayo,Brimstone,Raze
+5.0,OpTic Gaming,FunPlus Phoenix,Fracture,7,13,Chamber,Brimstone,Kayo,Breach,Neon,Fade,Omen,Viper,Chamber,Raze
+5.0,Paper Rex,FunPlus Phoenix,Bind,3,13,Raze,Brimstone,Breach,Fade,Yoru,Sage,Brimstone,Viper,Raze,Kayo
+5.0,Paper Rex,FunPlus Phoenix,Icebox,13,7,Fade,Chamber,Sage,Viper,Jett,Kayo,Viper,Sage,Fade,Chamber
+5.0,Paper Rex,FunPlus Phoenix,Fracture,7,13,Chamber,Viper,Raze,Breach,Neon,Viper,Fade,Chamber,Omen,Raze
+5.0,Paper Rex,FunPlus Phoenix,Haven,13,7,Chamber,Astra,Raze,Fade,Sage,Fade,Raze,Chamber,Omen,Sage
+5.0,Paper Rex,FunPlus Phoenix,Breeze,9,13,Breach,Neon,Astra,Fade,Yoru,Sova,Jett,Cypher,Skye,Viper

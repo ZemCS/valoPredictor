@@ -1,0 +1,102 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+4.08,BBL Esports,Natus Vincere,Ascent,6,13,Kayo,Chamber,Astra,Sova,Sage,Sova,Killjoy,Kayo,Jett,Omen
+4.08,BBL Esports,Natus Vincere,Icebox,18,16,Chamber,Viper,Sova,Kayo,Sage,Kayo,Chamber,Sova,Sage,Viper
+4.08,BBL Esports,Natus Vincere,Fracture,13,6,Chamber,Neon,Brimstone,Sage,Breach,Brimstone,Neon,Raze,Chamber,Breach
+4.08,OG LDN UTD,Acend,Icebox,7,13,Sova,Sage,Chamber,Fade,Viper,Kayo,Viper,Reyna,Sova,Chamber
+4.08,OG LDN UTD,Acend,Split,12,14,Raze,Chamber,Omen,Breach,Sage,Omen,Raze,Sage,Cypher,Jett
+4.08,FNATIC,FunPlus Phoenix,Fracture,13,3,Raze,Chamber,Viper,Astra,Breach,Astra,Cypher,Yoru,Breach,Raze
+4.08,FNATIC,FunPlus Phoenix,Ascent,5,13,Fade,Raze,Omen,Kayo,Chamber,Fade,Kayo,Sage,Chamber,Omen
+4.08,FNATIC,FunPlus Phoenix,Icebox,13,10,Sage,Killjoy,Sova,Chamber,Viper,Viper,Sage,Kayo,Chamber,Fade
+4.08,Team Liquid,BIG,Icebox,13,5,Viper,Sage,Omen,Fade,Raze,Jett,Viper,Chamber,Sova,Omen
+4.08,Team Liquid,BIG,Split,13,7,Astra,Omen,Cypher,Raze,Breach,Breach,Raze,Omen,Fade,Chamber
+4.08,Guild Esports,M3 Champions,Ascent,13,9,Jett,Killjoy,Sova,Kayo,Omen,Sova,Astra,Chamber,Jett,Kayo
+4.08,Guild Esports,M3 Champions,Haven,13,6,Sova,Jett,Breach,Omen,Killjoy,Chamber,Omen,Jett,Sova,Kayo
+4.08,G2 Esports,FOKUS,Fracture,14,12,Kayo,Neon,Chamber,Breach,Brimstone,Brimstone,Breach,Neon,Cypher,Raze
+4.08,G2 Esports,FOKUS,Icebox,13,11,Sova,Sage,Chamber,Viper,Killjoy,Chamber,Viper,Sova,Kayo,Jett
+4.09,BBL Esports,Team Liquid,Fracture,14,16,Sage,Neon,Chamber,Brimstone,Breach,Astra,Raze,Breach,Skye,Cypher
+4.09,BBL Esports,Team Liquid,Split,9,13,Raze,Breach,Omen,Chamber,Sage,Raze,Omen,Astra,Cypher,Breach
+4.09,OG LDN UTD,FNATIC,Haven,4,13,Omen,Jett,Killjoy,Sova,Breach,Chamber,Raze,Breach,Sova,Omen
+4.09,OG LDN UTD,FNATIC,Icebox,0,13,Sage,Fade,Chamber,Kayo,Viper,Chamber,Viper,Sage,Killjoy,Sova
+4.09,FunPlus Phoenix,G2 Esports,Fracture,13,9,Chamber,Fade,Omen,Sage,Kayo,Brimstone,Chamber,Breach,Neon,Kayo
+4.09,FunPlus Phoenix,G2 Esports,Ascent,13,10,Fade,Kayo,Sage,Omen,Jett,Kayo,Raze,Sova,Chamber,Omen
+4.09,BIG,Guild Esports,Icebox,10,13,Sova,Jett,Omen,Viper,Chamber,Viper,Chamber,Sage,Sova,Jett
+4.09,BIG,Guild Esports,Fracture,13,11,Chamber,Brimstone,Raze,Breach,Sage,Kayo,Brimstone,Chamber,Neon,Breach
+4.09,BIG,Guild Esports,Haven,6,13,Raze,Chamber,Breach,Fade,Omen,Killjoy,Jett,Omen,Sova,Breach
+4.09,Natus Vincere,M3 Champions,Ascent,5,13,Sova,Jett,Killjoy,Kayo,Omen,Killjoy,Sova,Astra,Jett,Kayo
+4.09,Natus Vincere,M3 Champions,Bind,13,4,Skye,Omen,Chamber,Raze,Viper,Viper,Fade,Brimstone,Skye,Raze
+4.09,Natus Vincere,M3 Champions,Icebox,3,13,Sova,Chamber,Killjoy,Viper,Sage,Viper,Sova,Chamber,Kayo,Brimstone
+4.09,FOKUS,Acend,Bind,13,7,Viper,Skye,Brimstone,Jett,Raze,Viper,Sage,Brimstone,Skye,Raze
+4.09,FOKUS,Acend,Ascent,8,13,Jett,Killjoy,Kayo,Sova,Omen,Omen,Jett,Kayo,Killjoy,Sova
+4.09,FOKUS,Acend,Icebox,9,13,Kayo,Jett,Viper,Sova,Killjoy,Chamber,Reyna,Viper,Kayo,Sova
+4.09,Team Liquid,Guild Esports,Split,3,13,Raze,Astra,Breach,Cypher,Omen,Breach,Omen,Cypher,Raze,Sage
+4.09,Team Liquid,Guild Esports,Icebox,13,6,Fade,Omen,Viper,Raze,Sage,Sova,Raze,Sage,Killjoy,Viper
+4.09,Team Liquid,Guild Esports,Fracture,4,13,Skye,Astra,Raze,Breach,Cypher,Breach,Raze,Sage,Chamber,Brimstone
+4.09,OG LDN UTD,G2 Esports,Ascent,13,9,Fade,Cypher,Sova,Jett,Omen,Jett,Fade,Killjoy,Omen,Kayo
+4.09,OG LDN UTD,G2 Esports,Breeze,10,13,Sova,Viper,Kayo,Cypher,Chamber,Sova,Chamber,Viper,Jett,Skye
+4.09,OG LDN UTD,G2 Esports,Fracture,13,11,Cypher,Brimstone,Raze,Sage,Breach,Chamber,Brimstone,Neon,Breach,Kayo
+4.09,BIG,Natus Vincere,Bind,13,9,Brimstone,Raze,Fade,Chamber,Skye,Chamber,Viper,Raze,Skye,Omen
+4.09,BIG,Natus Vincere,Ascent,9,13,Omen,Killjoy,Jett,Kayo,Sova,Omen,Sova,Jett,Killjoy,Kayo
+4.09,BIG,Natus Vincere,Haven,7,13,Breach,Omen,Jett,Fade,Killjoy,Omen,Neon,Chamber,Fade,Breach
+4.09,Acend,FNATIC,Ascent,4,13,Omen,Jett,Killjoy,Sova,Kayo,Chamber,Omen,Raze,Fade,Kayo
+4.09,Acend,FNATIC,Icebox,8,13,Chamber,Viper,Reyna,Kayo,Sova,Killjoy,Viper,Chamber,Sova,Sage
+4.09,BBL Esports,M3 Champions,Fracture,8,13,Brimstone,Chamber,Sage,Breach,Neon,Cypher,Raze,Sage,Brimstone,Breach
+4.09,BBL Esports,M3 Champions,Breeze,5,13,Sova,Viper,Kayo,Neon,Chamber,Chamber,Skye,Jett,Viper,Sova
+4.09,FOKUS,FunPlus Phoenix,Breeze,11,13,Viper,Jett,Kayo,Cypher,Sova,Kayo,Sova,Cypher,Jett,Viper
+4.09,FOKUS,FunPlus Phoenix,Fracture,1,13,Neon,Breach,Brimstone,Raze,Cypher,Sage,Chamber,Kayo,Fade,Omen
+4.10,Acend,G2 Esports,Split,3,13,Cypher,Omen,Sage,Raze,Jett,Chamber,Cypher,Raze,Sage,Omen
+4.10,Acend,G2 Esports,Icebox,13,10,Sova,Viper,Kayo,Chamber,Sage,Sova,Killjoy,Sage,Viper,Chamber
+4.10,Acend,G2 Esports,Bind,13,11,Raze,Omen,Viper,Chamber,Skye,Raze,Skye,Sage,Astra,Viper
+4.10,Natus Vincere,Team Liquid,Haven,11,13,Chamber,Fade,Raze,Breach,Omen,Raze,Fade,Breach,Chamber,Omen
+4.10,Natus Vincere,Team Liquid,Bind,13,11,Omen,Chamber,Skye,Fade,Viper,Omen,Raze,Fade,Chamber,Breach
+4.10,Natus Vincere,Team Liquid,Split,14,16,Sage,Raze,Omen,Breach,Cypher,Raze,Astra,Cypher,Omen,Breach
+4.10,BIG,M3 Champions,Ascent,13,9,Omen,Jett,Kayo,Killjoy,Sova,Astra,Killjoy,Jett,Kayo,Sova
+4.10,BIG,M3 Champions,Bind,13,9,Brimstone,Chamber,Raze,Fade,Skye,Viper,Fade,Raze,Brimstone,Skye
+4.10,OG LDN UTD,FunPlus Phoenix,Haven,6,13,Fade,Breach,Raze,Chamber,Omen,Chamber,Sage,Raze,Fade,Omen
+4.10,OG LDN UTD,FunPlus Phoenix,Bind,3,13,Breach,Neon,Chamber,Brimstone,Fade,Raze,Kayo,Brimstone,Cypher,Fade
+4.10,BBL Esports,Guild Esports,Bind,12,14,Chamber,Viper,Sage,Brimstone,Skye,Viper,Brimstone,Kayo,Skye,Raze
+4.10,BBL Esports,Guild Esports,Ascent,10,13,Astra,Killjoy,Jett,Sova,Kayo,Sova,Kayo,Omen,Killjoy,Jett
+4.10,FOKUS,FNATIC,Split,7,13,Omen,Cypher,Reyna,Sage,Raze,Chamber,Fade,Viper,Omen,Raze
+4.10,FOKUS,FNATIC,Bind,4,13,Jett,Brimstone,Raze,Skye,Viper,Raze,Viper,Fade,Skye,Astra
+4.10,Acend,FunPlus Phoenix,Bind,13,6,Omen,Raze,Viper,Chamber,Skye,Fade,Raze,Kayo,Cypher,Omen
+4.10,Acend,FunPlus Phoenix,Breeze,9,13,Viper,Skye,Chamber,Fade,Neon,Viper,Yoru,Fade,Chamber,Kayo
+4.10,Acend,FunPlus Phoenix,Split,13,10,Cypher,Raze,Chamber,Omen,Sage,Breach,Cypher,Fade,Raze,Omen
+4.10,M3 Champions,Team Liquid,Icebox,8,13,Viper,Kayo,Sova,Brimstone,Chamber,Chamber,Viper,Raze,Fade,Sage
+4.10,M3 Champions,Team Liquid,Fracture,7,13,Cypher,Brimstone,Sage,Raze,Breach,Breach,Astra,Chamber,Skye,Raze
+4.10,Natus Vincere,Guild Esports,Icebox,13,7,Sova,Kayo,Sage,Viper,Chamber,Sova,Jett,Viper,Reyna,Sage
+4.10,Natus Vincere,Guild Esports,Breeze,11,13,Viper,Sova,Jett,Skye,Cypher,Chamber,Viper,Jett,Kayo,Sova
+4.10,Natus Vincere,Guild Esports,Haven,13,11,Raze,Breach,Omen,Chamber,Fade,Killjoy,Sova,Omen,Jett,Breach
+4.10,FOKUS,OG LDN UTD,Breeze,7,13,Cypher,Jett,Sova,Viper,Kayo,Jett,Sova,Skye,Viper,Cypher
+4.10,FOKUS,OG LDN UTD,Ascent,13,11,Sova,Jett,Killjoy,Kayo,Omen,Omen,Sova,Jett,Fade,Cypher
+4.10,FOKUS,OG LDN UTD,Fracture,17,15,Neon,Breach,Cypher,Astra,Raze,Sage,Breach,Brimstone,Raze,Cypher
+4.10,BIG,BBL Esports,Ascent,6,13,Sova,Kayo,Omen,Killjoy,Jett,Kayo,Killjoy,Astra,Sova,Jett
+4.10,BIG,BBL Esports,Haven,10,13,Breach,Jett,Killjoy,Fade,Omen,Jett,Omen,Sova,Breach,Chamber
+4.10,FNATIC,G2 Esports,Icebox,13,9,Sova,Killjoy,Chamber,Sage,Viper,Chamber,Killjoy,Viper,Sova,Sage
+4.10,FNATIC,G2 Esports,Split,10,13,Fade,Omen,Chamber,Raze,Viper,Sage,Chamber,Cypher,Raze,Omen
+4.10,FNATIC,G2 Esports,Bind,13,11,Raze,Viper,Astra,Skye,Fade,Raze,Chamber,Skye,Astra,Viper
+4.11,Acend,M3 Champions,Bind,7,13,Skye,Viper,Raze,Chamber,Omen,Sova,Skye,Raze,Cypher,Omen
+4.11,Acend,M3 Champions,Breeze,14,16,Viper,Skye,Chamber,Neon,Fade,Skye,Chamber,Viper,Jett,Sova
+4.11,Team Liquid,FunPlus Phoenix,Split,8,13,Raze,Cypher,Omen,Astra,Breach,Cypher,Sage,Raze,Omen,Kayo
+4.11,Team Liquid,FunPlus Phoenix,Icebox,13,8,Raze,Sage,Chamber,Fade,Viper,Chamber,Viper,Kayo,Sova,Sage
+4.11,Team Liquid,FunPlus Phoenix,Haven,12,14,Chamber,Fade,Raze,Breach,Omen,Raze,Fade,Chamber,Sage,Omen
+4.11,Guild Esports,M3 Champions,Breeze,13,6,Jett,Sova,Cypher,Viper,Skye,Skye,Viper,Chamber,Jett,Sova
+4.11,Guild Esports,M3 Champions,Fracture,13,11,Raze,Chamber,Brimstone,Breach,Sage,Breach,Chamber,Raze,Omen,Kayo
+4.11,FNATIC,FunPlus Phoenix,Icebox,13,6,Chamber,Killjoy,Sova,Viper,Sage,Chamber,Kayo,Yoru,Viper,Sova
+4.11,FNATIC,FunPlus Phoenix,Ascent,12,14,Kayo,Fade,Omen,Chamber,Raze,Chamber,Fade,Sage,Omen,Kayo
+4.11,FNATIC,FunPlus Phoenix,Fracture,13,9,Viper,Chamber,Raze,Breach,Astra,Chamber,Omen,Fade,Sage,Kayo
+4.11,M3 Champions,Team Liquid,Icebox,10,13,Viper,Chamber,Sova,Brimstone,Kayo,Chamber,Fade,Raze,Sage,Viper
+4.11,M3 Champions,Team Liquid,Fracture,13,7,Chamber,Omen,Raze,Kayo,Breach,Astra,Breach,Chamber,Skye,Raze
+4.11,M3 Champions,Team Liquid,Bind,13,6,Omen,Raze,Sage,Skye,Viper,Fade,Raze,Chamber,Breach,Omen
+4.11,FunPlus Phoenix,Acend,Haven,3,13,Sova,Raze,Sage,Chamber,Omen,Chamber,Fade,Raze,Breach,Omen
+4.11,FunPlus Phoenix,Acend,Icebox,13,11,Sova,Viper,Chamber,Sage,Killjoy,Viper,Chamber,Kayo,Sova,Sage
+4.11,FunPlus Phoenix,Acend,Breeze,13,3,Sova,Viper,Chamber,Yoru,Kayo,Chamber,Fade,Neon,Skye,Viper
+4.11,Guild Esports,FNATIC,Bind,9,13,Chamber,Fade,Raze,Brimstone,Skye,Astra,Viper,Skye,Raze,Fade
+4.11,Guild Esports,FNATIC,Haven,11,13,Raze,Fade,Omen,Chamber,Breach,Chamber,Raze,Breach,Sova,Omen
+4.11,FunPlus Phoenix,M3 Champions,Ascent,13,11,Fade,Kayo,Omen,Sage,Chamber,Kayo,Chamber,Raze,Fade,Omen
+4.11,FunPlus Phoenix,M3 Champions,Breeze,9,13,Viper,Sova,Yoru,Kayo,Chamber,Chamber,Omen,Sova,Viper,Kayo
+4.11,FunPlus Phoenix,M3 Champions,Fracture,13,4,Raze,Omen,Fade,Viper,Chamber,Kayo,Raze,Chamber,Omen,Breach
+4.11,Guild Esports,FunPlus Phoenix,Fracture,4,13,Viper,Chamber,Breach,Astra,Raze,Chamber,Raze,Viper,Fade,Omen
+4.11,Guild Esports,FunPlus Phoenix,Haven,11,13,Sova,Raze,Chamber,Omen,Breach,Sage,Raze,Fade,Chamber,Omen
+4.11,Guild Esports,FunPlus Phoenix,Split,4,13,Fade,Chamber,Omen,Raze,Viper,Raze,Killjoy,Astra,Viper,Kayo
+4.11,FNATIC,FunPlus Phoenix,Split,15,13,Raze,Viper,Chamber,Fade,Omen,Astra,Kayo,Cypher,Raze,Viper
+4.11,FNATIC,FunPlus Phoenix,Icebox,13,5,Killjoy,Viper,Chamber,Sova,Sage,Chamber,Viper,Killjoy,Sage,Sova
+4.11,FNATIC,FunPlus Phoenix,Haven,15,13,Raze,Sova,Omen,Breach,Chamber,Sova,Jett,Kayo,Killjoy,Omen

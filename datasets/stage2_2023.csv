@@ -1,0 +1,28 @@
+patchID,team1_Name,team2_Name,mapName,team1Score,team2Score,agent1,agent2,agent3,agent4,agent5,agent6,agent7,agent8,agent9,agent10
+7.0,MIBR,KRÜ Esports,Bind,7,13,Chamber,Skye,Raze,Brimstone,Viper,Skye,Raze,Cypher,Brimstone,Viper
+7.0,MIBR,KRÜ Esports,Lotus,8,13,Raze,Skye,Omen,Viper,Killjoy,Killjoy,Omen,Raze,Viper,Skye
+7.0,FURIA,KRÜ Esports,Split,14,12,Astra,Raze,Skye,Viper,Jett,Raze,Skye,Chamber,Viper,Astra
+7.0,FURIA,KRÜ Esports,Ascent,4,13,Killjoy,Kayo,Sova,Jett,Omen,Jett,Kayo,Omen,Sova,Killjoy
+7.0,FURIA,KRÜ Esports,Bind,11,13,Jett,Viper,Astra,Skye,Sova,Raze,Brimstone,Skye,Viper,Cypher
+7.0,Sentinels,100 Thieves,Pearl,12,14,Jett,Sova,Astra,Kayo,Killjoy,Jett,Killjoy,Omen,Harbor,Skye
+7.0,Sentinels,100 Thieves,Split,13,7,Viper,Astra,Jett,Skye,Raze,Viper,Chamber,Astra,Raze,Skye
+7.0,Sentinels,100 Thieves,Bind,13,7,Raze,Yoru,Skye,Viper,Brimstone,Chamber,Yoru,Harbor,Brimstone,Skye
+7.0,Cloud9,Sentinels,Pearl,13,8,Skye,Killjoy,Jett,Viper,Harbor,Jett,Sova,Kayo,Killjoy,Astra
+7.0,Cloud9,Sentinels,Fracture,5,13,Breach,Killjoy,Raze,Brimstone,Fade,Breach,Cypher,Brimstone,Kayo,Raze
+7.0,Cloud9,Sentinels,Split,13,8,Skye,Cypher,Breach,Raze,Astra,Raze,Viper,Jett,Skye,Astra
+7.0,LEVIATÁN,KRÜ Esports,Split,5,13,Viper,Raze,Astra,Skye,Jett,Raze,Astra,Chamber,Skye,Viper
+7.0,LEVIATÁN,KRÜ Esports,Lotus,7,13,Killjoy,Viper,Fade,Omen,Raze,Killjoy,Raze,Skye,Viper,Omen
+7.0,Cloud9,KRÜ Esports,Ascent,13,4,Jett,Viper,Skye,Omen,Killjoy,Omen,Sova,Kayo,Killjoy,Jett
+7.0,Cloud9,KRÜ Esports,Pearl,4,13,Jett,Viper,Killjoy,Harbor,Skye,Viper,Killjoy,Skye,Jett,Harbor
+7.0,Cloud9,KRÜ Esports,Haven,6,13,Viper,Jett,Omen,Killjoy,Skye,Raze,Skye,Chamber,Astra,Killjoy
+7.0,Sentinels,LEVIATÁN,Fracture,8,13,Kayo,Cypher,Brimstone,Breach,Raze,Killjoy,Brimstone,Breach,Raze,Jett
+7.0,Sentinels,LEVIATÁN,Split,4,13,Raze,Viper,Jett,Astra,Skye,Viper,Astra,Raze,Jett,Skye
+7.0,Cloud9,LEVIATÁN,Lotus,13,7,Killjoy,Skye,Viper,Astra,Raze,Fade,Raze,Omen,Viper,Killjoy
+7.0,Cloud9,LEVIATÁN,Pearl,13,9,Viper,Harbor,Jett,Skye,Killjoy,Killjoy,Viper,Skye,Jett,Harbor
+7.0,Cloud9,LEVIATÁN,Split,11,13,Astra,Skye,Cypher,Breach,Raze,Raze,Astra,Viper,Jett,Skye
+7.0,Cloud9,LEVIATÁN,Haven,10,13,Sova,Breach,Jett,Omen,Killjoy,Killjoy,Sova,Astra,Breach,Jett
+7.0,Cloud9,LEVIATÁN,Bind,7,13,Skye,Viper,Cypher,Astra,Raze,Harbor,Brimstone,Skye,Raze,Chamber
+7.0,KRÜ Esports,LEVIATÁN,Split,13,5,Skye,Astra,Viper,Raze,Chamber,Viper,Skye,Raze,Jett,Astra
+7.0,KRÜ Esports,LEVIATÁN,Pearl,8,13,Harbor,Killjoy,Jett,Viper,Skye,Jett,Viper,Skye,Harbor,Killjoy
+7.0,KRÜ Esports,LEVIATÁN,Ascent,13,6,Jett,Sova,Omen,Kayo,Killjoy,Kayo,Sova,Killjoy,Jett,Omen
+7.0,KRÜ Esports,LEVIATÁN,Lotus,13,10,Raze,Skye,Viper,Omen,Killjoy,Viper,Killjoy,Raze,Fade,Omen
